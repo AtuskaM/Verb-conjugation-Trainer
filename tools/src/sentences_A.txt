@@ -1,0 +1,294 @@
+# Fill in the sentence — level A.
+# Tense | sentence with ___ | English | verb | person (1sg 2sg 3sg 1pl 2pl 3pl) | answer | tip (English)
+# One answer form is enough: written/spoken variants (pracuju/pracuji) are added automatically by build_verbs.py.
+# Past and Conditional: the blank is the WHOLE verb – helper + -l form:  jsem psal, bych chtěl, kdybych měla, ses narodil.
+# Answers for já/ty can list both genders:  jsem psal / jsem psala
+Present | Ráno ___ kávu. | I drink coffee in the morning. | pít | 1sg | piju | Habit: every morning; subject já.
+Present | Co ___ dnes večer? | What are you doing tonight? | dělat | 2sg | děláš | ty always ends in -š.
+Present | Petr ___ v bance. | Petr works in a bank. | pracovat | 3sg | pracuje | -ovat verbs: -uje for on/ona.
+Present | ___ česky? | Do you speak Czech? (polite) | mluvit | 2pl | Mluvíte | vy always ends in -te.
+Present | My ___ v Brně. | We live in Brno. | bydlet | 1pl | bydlíme | my ends in -me.
+Present | Děti ___ ve škole. | The children are at school. | být | 3pl | jsou | být is irregular: oni jsou.
+Present | Já ___ dva bratry. | I have two brothers. | mít | 1sg | mám | mít belongs to the -á group.
+Present | Anna ___ ráda čokoládu. | Anna likes chocolate. | mít | 3sg | má | mít rád = to like.
+Present | Kolik to ___? | How much does it cost? | stát | 3sg | stojí | stát (cost) → stojí.
+Present | Nevím, kde ___ nádraží. | I don't know where the station is. | být | 3sg | je | on/ona/ono: je.
+Present | ___ si, prosím, polévku. | I'll have the soup, please. | dát si | 1sg | Dám | dát → dám (perfective, used for ordering).
+Present | Kam ___ dnes? | Where are you going today? (on foot) | jít | 2sg | jdeš | jít: jdu, jdeš, jde…
+Present | Zítra ___ do Prahy. | Tomorrow I'm going to Prague (by train). | jet | 1sg | jedu | One trip by vehicle: jet.
+Present | Každý den ___ do práce autobusem. | I go to work by bus every day. | jezdit | 1sg | jezdím | Every day = regularly → jezdit.
+Present | Rád ___ do kina. | I like going to the cinema. | chodit | 1sg | chodím | Regular activity → chodit.
+Present | Ty ___ hezky! | You sing beautifully! | zpívat | 2sg | zpíváš | -á group: zpívám, zpíváš…
+Present | Moje máma ___ výborně. | My mum cooks really well. | vařit | 3sg | vaří | -í group: on/ona vaří.
+Present | ___ mi, prosím? | Can you help me, please? (polite) | pomoct | 2pl | Pomůžete | pomoct is perfective: pomůžete.
+Present | Promiňte, ___ cestu na poštu? | Excuse me, do you know the way to the post office? | vědět | 2pl | Víte | vědět: vím, víš, ví, víme, víte, vědí.
+Present | Nerozumím, ___ to zopakovat? | I don't understand, can you repeat it? (polite) | moct | 2pl | Můžete | moct: můžu, můžeš… můžete.
+Present | Co ___ k večeři? | What do they want for dinner? | chtít | 3pl | chtějí | chtít: chci, chceš, chce, chceme, chcete, chtějí.
+Present | ___ kávu, nebo čaj? | Do you want coffee or tea? (ty) | chtít | 2sg | Chceš | chtít: ty chceš.
+Present | V sobotu ___ dlouho. | On Saturdays we sleep late. | spát | 1pl | spíme | spát belongs to the -í group: spím.
+Present | Babička ___ noviny. | Grandma is reading the newspaper. | číst | 3sg | čte | číst: čtu, čteš, čte.
+Present | Studenti ___ dopis. | The students are writing a letter. | psát | 3pl | píšou | psát: píšu, píšeš… píšou/píší.
+Present | Co ___ v obchodě? | What are you buying in the shop? (vy) | kupovat | 2pl | kupujete | -ovat → -ujete.
+Present | Kde ___ ty klíče? | Where are you looking for the keys? (ty) | hledat | 2sg | hledáš | -á group: hledáš.
+Present | Večer se ___ na televizi. | In the evening we watch TV. | dívat se | 1pl | díváme | se stays in the sentence; the blank is díváme.
+Present | Jak se ___? | What's your name? (ty) | jmenovat se | 2sg | jmenuješ | -ovat: jmenuju, jmenuješ.
+Present | Jak se ___? | How are you? (ty) | mít | 2sg | máš | Jak se máš? = How are you?
+Present | Kdy ___ obchod? | When does the shop open? | otevírat | 3sg | otevírá | -á group: otevírá.
+Present | Vlak ___ v osm. | The train leaves at eight. | odjíždět | 3sg | odjíždí | -í group: odjíždí.
+Present | Proč ___? | Why are you crying? (ty) | plakat | 2sg | pláčeš | plakat: pláču, pláčeš.
+Present | Rádi ___ fotbal. | We like playing football. | hrát | 1pl | hrajeme | hrát: hraju, hraješ… hrajeme.
+Present | Holky ___ na kytaru. | The girls play the guitar. | hrát | 3pl | hrajou | hrát: oni hrajou/hrají.
+Present | ___ mi, prosím, tu knihu? | Will you lend me that book, please? (ty) | půjčit | 2sg | Půjčíš | půjčit is perfective: půjčíš.
+Present | Každé ráno se ___. | I have a shower every morning. | sprchovat se | 1sg | sprchuju | -ovat: sprchuju/sprchuji.
+Present | Často ___ na Moravu. | We often travel to Moravia. | cestovat | 1pl | cestujeme | -ovat → -ujeme.
+Present | Co ___ tvůj táta? | What does your dad do (for a living)? | dělat | 3sg | dělá | -á group: dělá.
+Present | Ten svetr ___ moc hezky. | That sweater looks really nice. | vypadat | 3sg | vypadá | -á group: vypadá.
+Present | Nevím, co ___. | I don't know what you mean. (vy) | myslet | 2pl | myslíte | -í group: myslíte.
+Present | ___ si, že máš pravdu. | I think you're right. | myslet | 1sg | Myslím | -í group: myslím.
+Present | Rodiče ___ v Itálii. | My parents are on holiday in Italy. | být | 3pl | jsou | být: oni jsou.
+Present | Můj bratr ___ medicínu. | My brother studies medicine. | studovat | 3sg | studuje | -ovat: studuje.
+Present | Kdo ___ dnes nádobí? | Who's washing the dishes today? | mýt | 3sg | myje | mýt: myju, myješ, myje.
+Present | Teď ___ na tebe. | I'm waiting for you now. | čekat | 1sg | čekám | -á group: čekám.
+Present | V zimě ___ na hory. | In winter we go to the mountains. | jezdit | 1pl | jezdíme | Regularly → jezdit.
+Present | Pes ___ na zahradě. | The dog is running around the garden. | běhat | 3sg | běhá | Around, here and there → běhat.
+Present | Děti ___ do školy pěšky. | The children walk to school. | chodit | 3pl | chodí | Regularly on foot → chodit.
+Present | Bolí mě hlava, ___ si lehnout. | I've got a headache, I need to lie down. | muset | 1sg | musím | muset: musím, musíš.
+Present | Tady se ___ kouřit. | You can't smoke here. | smět | 3sg | nesmí | Negative: nesmí. Tady se nesmí… = it's not allowed.
+Present | Kolik ___ let? | How old are you? (ty) | mít | 2sg | máš | Age with mít: Kolik ti je / Kolik máš let.
+Future | ___ ti zítra. | I'll call you tomorrow. | zavolat | 1sg | Zavolám | Perfective present = future meaning.
+Present | Moje sestra ___ v nemocnici. | My sister works in a hospital. | pracovat | 3sg | pracuje | -ovat: pracuje.
+Present | Proč ___ tak smutná? | Why are you so sad? (ty, female) | být | 2sg | jsi | být: ty jsi (spoken: seš).
+Present | My ___ rádi pizzu. | We like pizza. | mít | 1pl | máme | mít rád: máme rádi.
+Present | Kde ___ ty housky? | Where do you buy those rolls? (ty) | kupovat | 2sg | kupuješ | -ovat: kupuješ.
+Present | Oni ___ anglicky i německy. | They speak English and German. | mluvit | 3pl | mluví | -í group: oni mluví.
+Present | Nerad ___ brzo. | I don't like getting up early. | vstávat | 1sg | vstávám | -á group: vstávám.
+Present | Už ___? | Are you leaving already? (vy) | odcházet | 2pl | odcházíte | -í group: odcházíte.
+Past | Včera ___ dopis. | I wrote a letter yesterday. | psát | 1sg | jsem psal / jsem psala | psát → psal, psala.
+Past | Kde ___ včera večer? | Where were you last night? | být | 2sg | jsi byl / jsi byla | být → byl, byla.
+Past | Anna ___ do Brna. | Anna went to Brno (by train). | jet | 3sg | jela | Female subject: -la.
+Past | Petr ___ domů pozdě. | Petr came home late. | přijít | 3sg | přišel | přijít → přišel (irregular).
+Past | Děti si ___ celý den venku. | The children played outside all day. | hrát | 3pl | hrály | Děti (feminine plural) → -ly; si stays in the sentence.
+Past | V sobotu ___ na výlet. | On Saturday we went on a trip. | jet | 1pl | jsme jeli | Plural: -li.
+Past | Co ___ k obědu? | What did you have for lunch? (vy) | jíst | 2pl | jste jedli | jíst → jedl, jedli.
+Past | Včera ___ moc kávy. | I drank too much coffee yesterday. | pít | 1sg | jsem pil / jsem pila | pít → pil, pila.
+Past | Babička ___ výborný dort. | Grandma baked a lovely cake. | upéct | 3sg | upekla | upéct → upekl, upekla.
+Past | Už ___ ten film? | Have you seen that film yet? | vidět | 2sg | jsi viděl / jsi viděla | vidět → viděl.
+Past | Kdy ___ do Česka? | When did you come to Czechia? (vy) | přijet | 2pl | jste přijeli | přijet → přijel, přijeli.
+Past | Vlak ___ pozdě. | The train arrived late. | přijet | 3sg | přijel | Vlak is masculine: -l.
+Past | Minulý týden ___ chřipku. | Last week I had the flu. | mít | 1sg | jsem měl / jsem měla | mít → měl, měla.
+Past | Moji rodiče ___ v Praze. | My parents lived in Prague. | bydlet | 3pl | bydleli | Mixed plural: -li.
+Past | Ráno ___ autobus. | I missed the bus this morning. | zmeškat | 1sg | jsem zmeškal / jsem zmeškala | zmeškat → zmeškal.
+Past | Proč ___? | Why did you call? | volat | 2sg | jsi volal / jsi volala | volat → volal.
+Past | Jana ___ nové šaty. | Jana bought a new dress. | koupit | 3sg | koupila | Female: -la.
+Past | Včera ___ do divadla. | Yesterday we went to the theatre. | jít | 1pl | jsme šli | jít → šel, šla, šli.
+Past | Kluci ___ fotbal. | The boys played football. | hrát | 3pl | hráli | Boys: -li.
+Past | Už ___ snídani? | Have you had breakfast yet? (vy) | jíst | 2pl | jste jedli | jíst → jedli.
+Past | Celý večer ___ na zkoušku. | I studied for the exam all evening. | učit se | 1sg | jsem se učil / jsem se učila | Whole verb: helper + se/si + -l form. ty + se = ses.
+Past | Pavel ___ v sedm. | Pavel got up at seven. | vstát | 3sg | vstal | vstát → vstal.
+Past | Kde ___ tu tašku? | Where did you buy that bag? | koupit | 2sg | jsi koupil / jsi koupila | koupit → koupil.
+Past | Eva ___ v kanceláři do šesti. | Eva worked in the office until six. | pracovat | 3sg | pracovala | Female: pracovala.
+Past | Mamka ___ guláš. | Mum cooked goulash. | uvařit | 3sg | uvařila | uvařit → uvařila.
+Past | Včera ___ dlouho. | I slept late yesterday. | spát | 1sg | jsem spal / jsem spala | spát → spal.
+Past | Co ___? | What did you say? | říct | 2sg | jsi řekl / jsi řekla | říct → řekl, řekla.
+Past | Lékař mi ___ léky. | The doctor prescribed me medicine. | předepsat | 3sg | předepsal | předepsat → předepsal.
+Past | Kdy ___? | When were you born? | narodit se | 2sg | ses narodil / ses narodila | Whole verb: helper + se/si + -l form. ty + se = ses.
+Past | Loni ___ v Itálii. | Last year we were in Italy. | být | 1pl | jsme byli | být → byli.
+Past | Studenti ___ test. | The students wrote a test. | psát | 3pl | psali | psát → psali.
+Past | Včera ___ v tramvaji peněženku. | Yesterday I found a wallet on the tram. | najít | 1sg | jsem našel / jsem našla | najít → našel.
+Past | Martina ___ celou knihu. | Martina read the whole book. | přečíst | 3sg | přečetla | přečíst → přečetl, přečetla.
+Past | Proč ___ tak pozdě? | Why did you come so late? (vy) | přijít | 2pl | jste přišli | přijít → přišli.
+Past | Holky ___ do kina. | The girls went to the cinema. | jít | 3pl | šly | Girls (feminine plural): šly.
+Past | Ráno ___ sníh. | It snowed in the morning (snow fell). | padat | 3sg | padal | Sníh is masculine: padal.
+Past | Tomáš ___ auto do garáže. | Tomáš parked the car in the garage. | zaparkovat | 3sg | zaparkoval | zaparkovat → zaparkoval.
+Past | Včera ___ s mámou. | I spoke to mum yesterday. | mluvit | 1sg | jsem mluvil / jsem mluvila | mluvit → mluvil.
+Past | Kam ___ ty peníze? | Where did you put the money? | dát | 2sg | jsi dal / jsi dala | dát → dal.
+Past | Kdo ___ okno? | Who opened the window? | otevřít | 3sg | otevřel | otevřít → otevřel.
+Past | Na dovolené ___ hodně fotek. | We took a lot of photos on holiday. | udělat | 1pl | jsme udělali | udělat → udělali.
+Past | Klára ___ ve vlaku. | Klára fell asleep on the train. | usnout | 3sg | usnula | usnout → usnul, usnula.
+Past | Turisti ___ cestu. | The tourists lost their way. | ztratit | 3pl | ztratili | ztratit → ztratili.
+Past | Už ___ úkol? | Have you done your homework yet? | udělat | 2sg | jsi udělal / jsi udělala | udělat → udělal.
+Past | Moje dcera ___ v Praze. | My daughter was born in Prague. | narodit se | 3sg | se narodila | 3rd person: no helper verb, just se + -l form.
+Past | Včera ___ hezky. | It was nice yesterday. | být | 3sg | bylo | Weather: ono → bylo.
+Past | Jak ___? | How did you sleep? (vy) | vyspat se | 2pl | jste se vyspali | vyspat se → vyspali.
+Past | Pan Novák ___ do důchodu. | Mr Novák retired (went into retirement). | odejít | 3sg | odešel | odejít → odešel.
+Past | Ten dárek ___ pro tebe. | I bought that present for you. | koupit | 1sg | jsem koupil / jsem koupila | koupit → koupil.
+Past | Kluci ___ celou pizzu. | The boys ate the whole pizza. | sníst | 3pl | snědli | sníst → snědl, snědli.
+Past | V neděli ___ babičku. | We visited grandma on Sunday. | navštívit | 1pl | jsme navštívili | navštívit → navštívili.
+Past | Kdy ___ z dovolené? | When did you get back from holiday? (vy) | vrátit se | 2pl | jste se vrátili | vrátit se → vrátili.
+Past | Ivana ___ dveře. | Ivana closed the door. | zavřít | 3sg | zavřela | zavřít → zavřel, zavřela.
+Past | Co ___ k narozeninám? | What did you get for your birthday? | dostat | 2sg | jsi dostal / jsi dostala | dostat → dostal.
+Past | Na večírku ___ až do rána. | We danced till morning at the party. | tancovat | 1pl | jsme tancovali | tancovat → tancovali.
+Past | Pes ___ celou noc na zahradě. | The dog was in the garden all night. | být | 3sg | byl | Pes is masculine: byl.
+Past | Rodiče mi ___ kolo. | My parents bought me a bike. | koupit | 3pl | koupili | koupit → koupili.
+Future | Zítra ___ doma. | Tomorrow I'll work from home. | pracovat | 1sg | budu pracovat | Imperfective: budu + infinitive.
+Future | V létě ___ k moři. | In summer we'll go to the seaside. | jet | 1pl | pojedeme | jet → pojedu, pojedeme (no budu).
+Future | Večer ___ do kina. | In the evening I'll go to the cinema. | jít | 1sg | půjdu | jít → půjdu (no budu).
+Future | Co ___ dělat o víkendu? | What will you do at the weekend? (ty) | být | 2sg | budeš | Future of být: budu, budeš…
+Future | Zítra ___ hezky. | It'll be nice tomorrow. | být | 3sg | bude | Future of být: bude.
+Future | ___ ti zítra. | I'll write to you tomorrow. | napsat | 1sg | Napíšu | Perfective: present form = future.
+Future | Kdy ___ ten úkol? | When will you finish the task? (vy) | udělat | 2pl | uděláte | Perfective → udělat: uděláte.
+Future | Večer ___ guláš. | In the evening I'll cook goulash. | uvařit | 1sg | uvařím | Perfective: uvařím.
+Future | Příští rok ___ v Praze. | Next year we'll study in Prague. | studovat | 1pl | budeme studovat | Imperfective: budeme + infinitive.
+Future | Kdo ___ dnes nádobí? | Who's going to wash the dishes today? | mýt | 3sg | bude mýt | Imperfective: bude + infinitive.
+Future | ___ ti, až přijedu. | I'll call you when I arrive. | zavolat | 1sg | Zavolám | Perfective: zavolám.
+Future | Zítra ___ celý den lyžovat. | Tomorrow we'll ski all day. | být | 1pl | budeme | budeme + infinitive lyžovat.
+Future | Děti ___ v létě na táboře. | The children will be at camp in summer. | být | 3pl | budou | být: oni budou.
+Future | Myslím, že ___ zima. | I think it'll be cold. | být | 3sg | bude | Future of být: bude.
+Future | Až ___ velký, budu lékař. | When I'm big, I'll be a doctor. | být | 1sg | budu | Future of být: budu.
+Future | Zítra ___ nový telefon. | Tomorrow I'll buy a new phone. | koupit | 1sg | koupím | Perfective: koupím.
+Future | Večer se ___ na film. | In the evening we'll watch a film. | podívat se | 1pl | podíváme | Perfective: podíváme se.
+Future | Kdy ___ domů? | When will you come home? (ty) | přijít | 2sg | přijdeš | přijít → přijdu, přijdeš.
+Future | Babička ___ v sobotu. | Grandma will come on Saturday (by car/train). | přijet | 3sg | přijede | přijet → přijede.
+Future | Za hodinu ___ na nádraží. | In an hour we'll be at the station. | být | 1pl | budeme | Future of být: budeme.
+Future | Zítra ___ test. | Tomorrow we'll write a test. | psát | 1pl | budeme psát | Imperfective: budeme psát.
+Future | Ten dopis ___ zítra. | I'll send the letter tomorrow. | poslat | 1sg | pošlu | poslat → pošlu.
+Future | ___ mi zítra? | Will you help me tomorrow? (ty) | pomoct | 2sg | Pomůžeš | Perfective: pomůžeš.
+Future | V pátek ___ večírek. | On Friday there'll be a party. | být | 3sg | bude | Future of být: bude.
+Future | Kdy ___ večeře? | When will dinner be (ready)? | být | 3sg | bude | Future of být: bude.
+Future | Na dovolené ___ hodně číst. | On holiday I'll read a lot. | být | 1sg | budu | budu + infinitive číst.
+Future | Zítra ___ rodičům. | Tomorrow I'll visit my parents (go to them). | jet | 1sg | pojedu | jet → pojedu.
+Future | Snad to ___. | Hopefully I'll manage it. | zvládnout | 1sg | zvládnu | Perfective: zvládnu.
+Future | Kam ___ v létě? | Where will you go in summer? (vy) | jet | 2pl | pojedete | jet → pojedete.
+Future | Kdy se ___ k lékaři? | When will you go to the doctor? (ty) | objednat se | 2sg | objednáš | Perfective: objednáš se.
+Future | Večer se ___ na televizi. | In the evening we'll watch TV. | dívat se | 1pl | budeme dívat | Imperfective: budeme se dívat — se stays.
+Future | V září ___ do školy. | In September I'll start (go to) school. | jít | 1sg | půjdu | jít → půjdu.
+Future | Kdy ___ zkouška? | When will the exam be? | být | 3sg | bude | Future of být: bude.
+Future | To ___ drahé. | That will be expensive. | být | 3sg | bude | Future of být: bude.
+Future | Zítra ___ uklízet. | Tomorrow we'll clean (the flat). | být | 1pl | budeme | budeme + infinitive uklízet.
+Future | Zítra mi ___ dvacet let. | Tomorrow I'll be twenty. | být | 3sg | bude | Age: je mi → bude mi.
+Future | ___ vám ten dárek. | I'll give you the present. | dát | 1sg | Dám | Perfective: dám.
+Future | Kdy ___ na vlak? | When will you leave for the train? (vy) | odejít | 2pl | odejdete | odejít → odejdete.
+Future | ___ si kávu, nebo čaj? | Will you have coffee or tea? (vy) | dát si | 2pl | Dáte | Perfective: dáte si.
+Future | V létě se ___ do Brna. | In summer we'll move to Brno. | přestěhovat se | 1pl | přestěhujeme | Perfective: přestěhujeme se.
+Future | Ten film se ti ___. | You'll like that film. | líbit se | 3sg | bude líbit | Imperfective: bude se líbit.
+Future | Zítra ___ okna. | Tomorrow I'll clean the windows. | mýt | 1sg | budu mýt | Imperfective: budu + infinitive.
+Future | Kdy ___ výsledky? | When will they know the results? | vědět | 3pl | budou vědět | Imperfective: budou vědět.
+Future | Za týden ___ dovolenou. | In a week we'll have a holiday. | mít | 1pl | budeme mít | Imperfective: budeme mít.
+Future | ___ trochu později. | I'll come a bit later. | přijít | 1sg | Přijdu | Perfective: přijdu.
+Future | Pozítří ___ sníh. | The day after tomorrow it'll snow. | padat | 3sg | bude padat | Imperfective: bude padat.
+Future | Kdo ___ hlídat děti? | Who'll look after the children? | být | 3sg | bude | bude + infinitive hlídat.
+Future | Zavolej, až ___ doma. | Call when you're home. | být | 2sg | budeš | Future of být: budeš.
+Future | Myslím, že ___ dobře. | I think it'll turn out well. | dopadnout | 3sg | dopadne | Perfective: dopadne.
+Future | Ten dort ___ na zítra. | I'll bake the cake for tomorrow. | upéct | 1sg | upeču | Perfective: upeču.
+Future | Kdy ___ ten pokoj? | When will you tidy the room? (ty) | uklidit | 2sg | uklidíš | Perfective: uklidíš.
+Future | ___ za tebou. | I'll come and see you (by car). | přijet | 1sg | Přijedu | přijet → přijedu.
+Future | Kluci ___ hrát fotbal. | The boys will play football. | být | 3pl | budou | budou + infinitive hrát.
+Future | Zítra ___ přednáška. | Tomorrow there'll be a lecture. | být | 3sg | bude | Future of být: bude.
+Future | Do večera to ___. | I'll finish it by the evening. | dodělat | 1sg | dodělám | Perfective: dodělám.
+Future | Večer ___ do restaurace. | In the evening we'll go to a restaurant. | jít | 1pl | půjdeme | jít → půjdeme.
+Future | Na Vánoce ___ k babičce. | At Christmas we'll go to grandma's. | jet | 1pl | pojedeme | jet → pojedeme.
+Future | Za rok ___ česky. | In a year you'll speak Czech. (ty) | mluvit | 2sg | budeš mluvit | Imperfective: budeš mluvit.
+Conditional | ___ kávu s mlékem. | I’d like a coffee with milk. | chtít | 1sg | Chtěl bych / Chtěla bych | Whole verb: bych/bys/by… + -l form.
+Conditional | ___ jednu kávu, prosím. | I'd like one coffee, please. | chtít | 1sg | Chtěl bych / Chtěla bych | Polite request: chtěl(a) bych.
+Conditional | ___ mi pomoct? | Could you help me? | moct | 2pl | Mohl byste / Mohla byste / Mohli byste | moct → mohl, mohla, mohli.
+Conditional | Rád ___ v Praze. | I'd like to live in Prague. | bydlet | 1sg | bych bydlel / bych bydlela | bydlet → bydlel.
+Conditional | Na tvém místě ___ k lékaři. | If I were you, I'd go to the doctor. | jít | 1sg | bych šel / bych šla | jít → šel, šla.
+Conditional | Kdybych měl čas, ___ víc. | If I had time, I'd read more. | číst | 1sg | četl bych | číst → četl.
+Conditional | Co ___ k večeři? | What would you like for dinner? | chtít | 2sg | bys chtěl / bys chtěla | chtít → chtěl.
+Conditional | ___ mi tu knihu? | Would you lend me that book? | půjčit | 2sg | Půjčil bys / Půjčila bys | půjčit → půjčil.
+Conditional | Rádi ___ do Itálie. | We'd like to go to Italy. | jet | 1pl | bychom jeli | jet → jeli.
+Conditional | Bylo by hezké, ___ sluníčko. | It would be nice if the sun shone. | svítit | 3sg | kdyby svítilo | sluníčko is neuter: svítilo.
+Conditional | ___, mohli bychom jít ven. | If you had time, we could go out. | mít | 2sg | Kdybys měl / Kdybys měla | mít → měl.
+Conditional | ___ polévku. | I'd have the soup. | dát si | 1sg | Dal bych si / Dala bych si | dát si → dal bych si.
+Conditional | Kdyby nepršelo, ___ na výlet. | If it didn't rain, we'd go on a trip. | jet | 1pl | jeli bychom | jet → jeli.
+Conditional | ___ mi zavolat taxi? | Could you call me a taxi? | moct | 2pl | Mohl byste / Mohla byste / Mohli byste | Polite: mohl byste / mohla byste.
+Conditional | S dobrým učitelem ___ Eva česky lépe. | With a good teacher Eva would speak Czech better. | mluvit | 3sg | by mluvila | on/ona: by + -l form; Eva → mluvila.
+Conditional | Na dovolené ___ celý den. | On holiday I'd sleep all day. | spát | 1sg | bych spal / bych spala | spát → spal.
+Conditional | Bez mapy ___. | Without a map we'd get lost. | ztratit | 1pl | bychom se ztratili | Whole verb: bych/bys/by… + se/si + -l form.
+Conditional | Co ___ ke snídani? | What would you like for breakfast? (vy) | chtít | 2pl | byste chtěli | chtít → chtěli.
+Conditional | ___ peníze, koupil bych auto. | If I had money, I'd buy a car. | mít | 1sg | Kdybych měl / Kdybych měla | Kdybych + -l form.
+Conditional | Táta ___ nové kolo. | Dad would like (to have) a new bike. | chtít | 3sg | by chtěl | Male: chtěl.
+Conditional | ___ zavřít okno? | Could you close the window? | moct | 2sg | Mohl bys / Mohla bys | moct → mohl.
+Conditional | Kdyby byl hezky, ___ grilovat. | If it were nice, we'd have a barbecue. | moct | 1pl | mohli bychom | moct → mohli.
+Conditional | Rád ___ kamarády na večeři. | I’d like to invite friends to dinner. | pozvat | 1sg | bych pozval | pozvat → pozval.
+Conditional | Kam ___ na dovolenou? | Where would you go on holiday? (by car/plane) | jet | 2sg | bys jel / bys jela | jet → jel.
+Conditional | Děti ___ psa. | The children would like a dog. | chtít | 3pl | by chtěly / by chtěli | Děti: chtěly (or chtěli).
+Conditional | ___ čas, přišel by. | If he had time, he'd come. | mít | 3sg | Kdyby měl | Male: měl.
+Conditional | Rádi ___ pokoj. | We'd like to book a room. | rezervovat | 1pl | bychom si rezervovali | rezervovat → rezervovali.
+Conditional | Na tvém místě ___ ten byt. | If I were you, I’d buy that flat. | koupit | 1sg | bych koupil / bych koupila | koupit → koupil.
+Conditional | ___ mi poradit? | Could you give me some advice? | moct | 2pl | Mohl byste / Mohla byste / Mohli byste | Polite request.
+Conditional | Kdybych byl bohatý, ___ po světě. | If I were rich, I'd travel the world. | cestovat | 1sg | cestoval bych | cestovat → cestoval.
+Conditional | Bez tebe ___ tu zkoušku. | Without you I wouldn’t pass that exam. | zvládnout | 1sg | bych nezvládl / bych nezvládla | Negative: ne- + zvládl.
+Conditional | Rád ___ něco k pití. | I'd like something to drink. | dát si | 1sg | bych si dal / bych si dala | dát si → dal bych si.
+Conditional | Bylo by lepší, ___ doma. | It would be better if you stayed at home. | zůstat | 2sg | kdybys zůstal / kdybys zůstala | zůstat → zůstal.
+Conditional | Co ___ na mém místě? | What would you do in my place? | dělat | 2sg | bys dělal / bys dělala | dělat → dělal.
+Conditional | Kdyby nebyla zima, ___ ven. | If it weren't cold, we'd go out. | jít | 1pl | šli bychom | jít → šli.
+Conditional | Kdybych věděl adresu, ___ ti. | If I knew the address, I'd write to you. | napsat | 1sg | napsal bych / napsala bych | napsat → napsal.
+Conditional | ___ mluvit s ředitelem. | We would like to speak to the director. | chtít | 1pl | Chtěli bychom | chtít → chtěli.
+Conditional | Kdyby nepršelo, děti ___ venku. | If it weren't raining, the children would play outside. | hrát | 3pl | by si hrály / by si hráli | Whole verb: bych/bys/by… + se/si + -l form.
+Conditional | ___ čas, zavolej. | If you had time, call me. | mít | 2sg | Kdybys měl / Kdybys měla | mít → měl.
+Conditional | Šel bych s tebou, ale ___. | I'd go with you, but I'd be bored. | nudit se | 1sg | nudil bych se / nudila bych se | Whole verb: bych/bys/by… + se/si + -l form.
+Conditional | ___ otázky, zavolejte. | If you have questions, call. | mít | 2pl | Kdybyste měli | mít → měli.
+Conditional | Jana ___ ráda zpěvačkou. | Jana would like to be a singer. | být | 3sg | by byla | Female: byla.
+Conditional | ___ víc, byl bych hubenější. | If I exercised more, I'd be slimmer. | cvičit | 1sg | Kdybych cvičil | cvičit → cvičil.
+Conditional | Na zahradě ___ zeleninu. | We would grow vegetables in the garden. | pěstovat | 1pl | bychom pěstovali | pěstovat → pěstovali.
+Conditional | Bylo by fajn, ___ v sobotu. | It would be great if you came on Saturday. | přijít | 2pl | kdybyste přišli | přijít → přišli.
+Conditional | ___ zima, vzal bych si bundu. | If it were cold, I'd take a jacket. | být | 3sg | Kdyby byla | zima is feminine: byla.
+Conditional | ___ autobus včas, nepřišel bych pozdě. | If the bus had come on time, I wouldn't have been late. | přijet | 3sg | Kdyby přijel | Kdyby + -l form; autobus → přijel.
+Conditional | Na tvém místě ___ víc vody. | If I were you, I'd drink more water. | pít | 1sg | bych pil / bych pila | pít → pil.
+Conditional | Kdybych mohl, ___ ti. | If I could, I'd help you. | pomoct | 1sg | pomohl bych | pomoct → pomohl.
+Conditional | ___ česky lépe, našel bych práci. | If I spoke Czech better, I'd find a job. | mluvit | 1sg | Kdybych mluvil / Kdybych mluvila | mluvit → mluvil.
+Conditional | Bylo by dobré, ___. | It would be good if you apologised. | omluvit se | 2sg | kdyby ses omluvil / kdyby ses omluvila | Whole verb: bych/bys/by… + se/si + -l form.
+Conditional | ___ hezky, šli bychom do parku. | If the weather were nice, we'd go to the park. | být | 3sg | Kdyby bylo | Weather: bylo.
+Conditional | ___, nebyl bys unavený. | If you'd had a good sleep, you wouldn't be tired. | vyspat se | 2sg | Kdyby ses vyspal / Kdyby ses vyspala | Whole verb: bych/bys/by… + se/si + -l form.
+Conditional | ___, kdybych mohl. | I would come if I could. | přijít | 1sg | Přišel bych / Přišla bych | přijít → přišel.
+Conditional | ___ ten kabát levnější, koupil bych ho. | If that coat were cheaper, I'd buy it. | být | 3sg | Kdyby byl | Kdyby + -l form; kabát → byl.
+Conditional | ___ čas, mohli bychom jít na kávu. | If you had time, we could go for a coffee. | mít | 2pl | Kdybyste měli | mít → měli.
+Conditional | ___ tvé číslo, zavolal bych ti. | If I had known your number, I would have called you. | znát | 1sg | Kdybych znal / Kdybych znala | znát → znal.
+Imperative | ___ chvilku, prosím. | Wait a moment, please. (ty) | počkat | 2sg | Počkej | počkat → počkej.
+Imperative | ___ chvilku, prosím. | Wait a moment, please. (vy) | počkat | 2pl | Počkejte | počkat → počkejte.
+Imperative | ___ se, prosím. | Sit down, please. (vy) | posadit se | 2pl | Posaďte | posadit se → posaďte se.
+Imperative | ___ dál, prosím. | Come in, please. (vy) | přijít | 2pl | Přijďte | přijít → přijď, přijďte.
+Imperative | ___ zítra v devět. | Come tomorrow at nine. (ty) | přijít | 2sg | Přijď | přijít → přijď.
+Imperative | ___ mi zítra. | Call me tomorrow. (ty) | zavolat | 2sg | Zavolej | zavolat → zavolej.
+Imperative | ___ mi zítra. | Call me tomorrow. (vy) | zavolat | 2pl | Zavolejte | zavolat → zavolejte.
+Imperative | ___ okno, prosím. | Close the window, please. (ty) | zavřít | 2sg | Zavři | zavřít → zavři.
+Imperative | ___ dveře, prosím. | Open the door, please. (vy) | otevřít | 2pl | Otevřete | otevřít → otevřete.
+Imperative | ___ pomalu, prosím. | Speak slowly, please. (vy) | mluvit | 2pl | Mluvte | mluvit → mluv, mluvte.
+Imperative | ___ to ještě jednou. | Say it once more. (ty) | říct | 2sg | Řekni | říct → řekni.
+Imperative | ___ mi, prosím, sůl. | Pass me the salt, please. (ty) | podat | 2sg | Podej | podat → podej.
+Imperative | ___ si! | Help yourself! (vy) | vzít si | 2pl | Vezměte | vzít si → vezměte si.
+Imperative | ___ si kabát, je zima. | Put on your coat, it's cold. (ty) | vzít si | 2sg | Vezmi | vzít si → vezmi si.
+Imperative | ___ rovně a pak doprava. | Go straight on and then right. (vy) | jít | 2pl | Jděte | jít → jdi, jděte.
+Imperative | ___ opatrně! | Drive carefully! (ty) | jet | 2sg | Jeď | jet → jeď.
+Imperative | ___ ten text. | Read the text. (vy) | přečíst | 2pl | Přečtěte | přečíst → přečti, přečtěte.
+Imperative | ___ si ten formulář. | Fill in the form. (vy) | vyplnit | 2pl | Vyplňte | vyplnit → vyplňte.
+Imperative | ___ se, večeře je hotová! | Wash, dinner's ready! (ty) | umýt se | 2sg | Umyj | umýt se → umyj se.
+Imperative | ___ si pokoj! | Tidy your room! (ty) | uklidit | 2sg | Ukliď | uklidit → ukliď.
+Imperative | Prosím tě, ___ mi! | Please help me! (ty) | pomoct | 2sg | pomoz | pomoct → pomoz.
+Imperative | ___ se! | Don't worry! / Don't be afraid! (ty) | bát se | 2sg | Neboj | Negative: neboj se.
+Imperative | ___ to! | Leave it! (ty) | nechat | 2sg | Nech | nechat → nech.
+Imperative | ___ si, máme málo času. | Hurry up, we haven't got much time. (ty) | pospíšit si | 2sg | Pospěš | Hurry: pospěš si (si stays).
+Imperative | ___ zdravý! | Get well! (Be healthy!) (ty) | být | 2sg | Buď | být → buď.
+Imperative | ___ tady, prosím. | Wait here, please. (vy) | počkat | 2pl | Počkejte | počkat → počkejte.
+Imperative | ___ se na tu fotku! | Look at this photo! (ty) | podívat se | 2sg | Podívej | podívat se → podívej se.
+Imperative | ___ mi zprávu. | Send me a message. (ty) | poslat | 2sg | Pošli | poslat → pošli.
+Imperative | ___ si polévku! | Have some soup! (vy) | dát si | 2pl | Dejte | dát si → dejte si.
+Imperative | ___ do kina! | Let's go to the cinema! | jít | 1pl | Pojďme | Let's go: pojďme.
+Imperative | ___ se trochu vody. | Drink some water. (ty) | napít se | 2sg | Napij | napít se → napij se.
+Imperative | ___ mi, prosím, ten papír. | Give me that paper, please. (vy) | dát | 2pl | Dejte | dát → dej, dejte.
+Imperative | ___ se, prosím. | Calm down, please. (ty) | uklidnit se | 2sg | Uklidni | uklidnit se → uklidni se.
+Imperative | ___ na mě! | Wait for me! (ty) | počkat | 2sg | Počkej | počkat → počkej.
+Imperative | ___ světlo, jdeme spát. | Turn off the light, we're going to bed. (ty) | zhasnout | 2sg | Zhasni | zhasnout → zhasni.
+Imperative | ___ mi, kde bydlíš. | Tell me where you live. (ty) | říct | 2sg | Řekni | říct → řekni.
+Imperative | ___ rodiče! | Say hello to your parents! (ty) | pozdravovat | 2sg | Pozdravuj | pozdravovat → pozdravuj.
+Imperative | ___ se, prosím, na tu otázku. | Please have a look at that question. (vy) | podívat se | 2pl | Podívejte | podívat se → podívejte se.
+Imperative | ___ si bundu, prší. | Take your jacket, it's raining. (ty) | vzít si | 2sg | Vezmi | vzít si → vezmi si.
+Imperative | ___ si, je pozdě. | Lie down, it's late. (ty) | lehnout si | 2sg | Lehni | lehnout si → lehni si.
+Imperative | ___ si to. | Enjoy it! (vy) | užít si | 2pl | Užijte | užít si → užijte si.
+Imperative | ___ televizi, jdeme ven. | Turn off the TV, we're going out. (ty) | vypnout | 2sg | Vypni | vypnout → vypni.
+Imperative | ___ nahlas. | Read aloud. (vy) | číst | 2pl | Čtěte | číst → čti, čtěte.
+Imperative | ___ ten dopis. | Write that letter. (ty) | napsat | 2sg | Napiš | napsat → napiš.
+Imperative | ___ se dobře! | Have a good time! (vy) | bavit | 2pl | Bavte | bavit se → bavte se.
+Imperative | ___ mi, že přijdeš. | Promise me you'll come. (ty) | slíbit | 2sg | Slib | slíbit → slib.
+Imperative | ___ si to! | Remember it! (ty) | pamatovat si | 2sg | Pamatuj | pamatovat si → pamatuj si.
+Imperative | ___ se, už jedeme! | Get dressed, we're leaving! (ty) | obléknout se | 2sg | Oblékni | obléknout se → oblékni se.
+Imperative | ___ na sebe pozor! | Take care of yourself! (ty) | dát | 2sg | Dej | dát pozor → dej pozor.
+Imperative | ___ si rezervaci. | Check your booking. (vy) | zkontrolovat | 2pl | Zkontrolujte | -ovat → -ujte.
+Imperative | ___ ten dort! | Taste the cake! (vy) | ochutnat | 2pl | Ochutnejte | ochutnat → ochutnejte.
+Imperative | ___ si něco k jídlu. | Let's order something to eat. | objednat si | 1pl | Objednejme | Let's: vy form -te → -me.
+Imperative | ___ se zítra. | Let's meet tomorrow. | sejít se | 1pl | Sejděme | Let's: sejděte → sejděme.
+Imperative | ___ mi kartou. | Pay by card. (vy) | zaplatit | 2pl | Zaplaťte | zaplatit → zaplať, zaplaťte.
+Imperative | ___ si! | Sit down! (ty) | sednout si | 2sg | Sedni | sednout si → sedni si.
+Imperative | ___ doleva. | Turn left. (vy) | odbočit | 2pl | Odbočte | odbočit → odboč, odbočte.
+Imperative | ___ v pondělí. | Come on Monday. (vy) | přijít | 2pl | Přijďte | přijít → přijď, přijďte.

@@ -1,0 +1,151 @@
+# Fill in the sentence — level C. Same format as sentences_A.txt.
+Present | Hotel se ___ přímo v centru. | The hotel is right in the centre. | nacházet | 3sg | nachází | nacházet se = to be located.
+Present | Problém ___ v tom, že nemáme čas. | The problem is that we have no time. | spočívat | 3sg | spočívá | spočívat v čem.
+Present | To ___ s počasím. | That has to do with the weather. | souviset | 3sg | souvisí | souviset s čím.
+Present | Ta práce ___ hodně trpělivosti. | The job requires a lot of patience. | vyžadovat | 3sg | vyžaduje | -ovat: vyžaduje.
+Present | Pravidlo se ___ na všechny. | The rule applies to everyone. | vztahovat se | 3sg | vztahuje | -ovat: vztahuje se.
+Present | ___ se mi, že je to dobrý nápad. | It seems to me that it's a good idea. | jevit se | 3sg | Jeví | jevit se komu.
+Present | Firma ___ v Brně. | The company is based in Brno. | sídlit | 3sg | sídlí | -í group: sídlí.
+Present | Ceny ___ o pět procent. | Prices are rising by five percent. | stoupat | 3pl | stoupají | -á group: stoupají.
+Present | Nerad ___ peníze za zbytečnosti. | I don't like spending money on useless things. | utrácet | 1sg | utrácím | -í group: utrácím.
+Present | Ty si všechno ___ na sebe. | You take everything personally. | brát | 2sg | bereš | brát: beru, bereš.
+Present | Tento lék rychle ___ bolest. | This medicine quickly eases the pain. | zmírnit | 3sg | zmírní | Perfective present = result: zmírní.
+Present | ___ se, že je to pravda. | I'm afraid it's true. | obávat se | 1sg | Obávám | -á group: obávám se.
+Present | Většina lidí ___ s tímto názorem. | Most people agree with this view. | souhlasit | 3sg | souhlasí | Většina takes the singular: souhlasí.
+Present | Všichni ___ po míru. | Everyone longs for peace. | toužit | 3pl | touží | toužit po čem.
+Present | Kde se ___ ta konference? | Where is the conference taking place? | konat se | 3sg | koná | -á group: koná se.
+Present | Moc si ___ vaší pomoci. | I really appreciate your help. | vážit | 1sg | vážím | vážit si čeho (si stays).
+Present | Na čem ___ úspěch? | What does success rest on? | spočívat | 3sg | spočívá | spočívat na čem.
+Present | Výsledky ___ na zlepšení. | The results point to an improvement. | ukazovat | 3pl | ukazují | -ovat: ukazují.
+Present | Tento zákon ___ práva nájemníků. | This law protects tenants' rights. | chránit | 3sg | chrání | -í group: chrání.
+Present | Všechno ___, že vyhrají. | Everything suggests that they'll win. | naznačovat | 3sg | naznačuje | -ovat: naznačuje.
+Present | ___ si s ním. | We're on first-name terms. | tykat si | 1pl | Tykáme | tykat si: tykáme si.
+Present | Za to ___ já. | I'm responsible for that. (I guarantee) | ručit | 1sg | ručím | ručit za co.
+Present | ___ to od tebe moc hezké. | That's very nice of you. | být | 3sg | Je | být: je.
+Present | Ten obraz ___ dvě stě let. | The painting is two hundred years old (exists). | existovat | 3sg | existuje | -ovat: existuje.
+Present | ___ o tom pochybnosti. | We have doubts about it. | mít | 1pl | Máme | mít: máme.
+Present | Kdo ___ za tím rozhodnutím? | Who is behind that decision? | stát | 3sg | stojí | stát: stojí.
+Present | Studie ___, že spánek je důležitý. | The study confirms that sleep is important. | potvrzovat | 3sg | potvrzuje | -ovat: potvrzuje.
+Present | Vláda ___ nová opatření. | The government is pushing new measures. | prosazovat | 3sg | prosazuje | -ovat: prosazuje.
+Present | Lidé ___ více než dřív. | People are travelling more than before. | cestovat | 3pl | cestují | -ovat: cestují.
+Present | Proč tu ___? | Why are you hanging around here? (vy) | postávat | 2pl | postáváte | -á group: postáváte.
+Past | Vláda ___ nový zákon. | The government pushed through a new law. | prosadit | 3sg | prosadila | vláda is feminine: prosadila.
+Past | Ta zpráva mnou ___. | The news shook me. | otřást | 3sg | otřásla | zpráva is feminine: otřásla.
+Past | Konference ___ v Praze. | The conference took place in Prague. | proběhnout | 3sg | proběhla | konference is feminine: proběhla.
+Past | Policie ___ zloděje. | The police arrested the thief. | zatknout | 3sg | zatkla | zatknout → zatkl, zatkla.
+Past | Na schůzi ___ důležitou otázku. | At the meeting we raised an important question. | vznést | 1pl | jsme vznesli | vznést → vznesl, vznesli.
+Past | Firma ___ sto zaměstnanců. | The company laid off a hundred employees. | propustit | 3sg | propustila | firma is feminine.
+Past | Nehoda si ___ dvě oběti. | The accident claimed two lives. | vyžádat si | 3sg | vyžádala | nehoda is feminine.
+Past | Po válce ___ hodně vesnic. | After the war many villages disappeared. | zaniknout | 3pl | zanikly | vesnice (feminine plural): zanikly.
+Past | Ve vlaku ___ zajímavý rozhovor. | On the train I overheard an interesting conversation. | zaslechnout | 1sg | jsem zaslechl / jsem zaslechla | zaslechnout → zaslechl.
+Past | Proč ___ pravdu? | Why did you hide the truth? | tajit | 2sg | jsi tajil / jsi tajila | tajit → tajil.
+Past | Lékaři mu ___ život. | The doctors saved his life. | zachránit | 3pl | zachránili | zachránit → zachránili.
+Past | Kdo ___ tu nehodu? | Who caused the accident? | zavinit | 3sg | zavinil | zavinit → zavinil.
+Past | Ředitel ___ z funkce. | The director resigned from his post. | odstoupit | 3sg | odstoupil | odstoupit → odstoupil.
+Past | Projekt ___ na penězích. | The project failed for lack of money. | ztroskotat | 3sg | ztroskotal | projekt is masculine: ztroskotal.
+Past | Jak ___ k tomu závěru? | How did you reach that conclusion? (vy) | dospět | 2pl | jste dospěli | dospět → dospěl, dospěli.
+Past | Pacient se rychle ___. | The patient recovered quickly. | zotavit se | 3sg | zotavil | se stays in the sentence.
+Past | Ta kniha mě hluboce ___. | The book moved me deeply. | zasáhnout | 3sg | zasáhla | kniha is feminine: zasáhla.
+Past | Loni ___ nezaměstnanost. | Unemployment fell last year. | klesnout | 3sg | klesla | nezaměstnanost is feminine: klesla.
+Past | V kuchyni ___ požár. | A fire broke out in the kitchen. | vypuknout | 3sg | vypukl | požár is masculine: vypukl.
+Past | Svědek ___ u soudu. | The witness testified in court. | vypovídat | 3sg | vypovídal | vypovídat → vypovídal.
+Past | Celý večer ___ nad tím problémem. | I pondered the problem all evening. | přemýšlet | 1sg | jsem přemýšlel / jsem přemýšlela | přemýšlet → přemýšlel.
+Past | Ten dům ___ v roce 1900. | The house was built in 1900 (came into being). | vzniknout | 3sg | vznikl | dům is masculine: vznikl.
+Past | Doktor ___, že je vše v pořádku. | The doctor stated that everything was fine. | konstatovat | 3sg | konstatoval | konstatovat → konstatoval.
+Past | Tu chybu ___ až doma. | I only spotted the mistake at home. | zpozorovat | 1sg | jsem zpozoroval / jsem zpozorovala | zpozorovat → zpozoroval.
+Past | Ceny ___ o deset procent. | Prices rose by ten percent. | vzrůst | 3pl | vzrostly | ceny (feminine plural): vzrostly.
+Past | Jednání ___ bez dohody. | The talks ended without an agreement. | skončit | 3sg | skončilo | jednání is neuter: skončilo.
+Past | Kdy ___ na to místo? | When did you apply for that post? (vy) | ucházet se | 2pl | jste se ucházeli | ucházet se → ucházeli.
+Past | Zloděj ___ z vězení. | The thief escaped from prison. | uprchnout | 3sg | uprchl | uprchnout → uprchl.
+Past | Všichni ___ jeho výkon. | Everyone praised his performance. | ocenit | 3pl | ocenili | ocenit → ocenili.
+Past | Na chvíli ___. | I hesitated for a moment. | zaváhat | 1sg | jsem zaváhal / jsem zaváhala | zaváhat → zaváhal.
+Future | Konference se ___ v květnu. | The conference will take place in May. | uskutečnit | 3sg | uskuteční | Perfective: uskuteční se.
+Future | Ten zákon ___ všechny. | That law will affect everyone. | ovlivnit | 3sg | ovlivní | Perfective: ovlivní.
+Future | Kdo ___ ředitele během dovolené? | Who will stand in for the director during the holiday? | zastupovat | 3sg | bude zastupovat | Imperfective: bude zastupovat.
+Future | Výsledky ___ v pátek. | We'll announce the results on Friday. | oznámit | 1pl | oznámíme | Perfective: oznámíme.
+Future | Ceny se ___ dál zvyšovat. | Prices will keep rising. | být | 3pl | budou | budou + infinitive zvyšovat.
+Future | Firma ___ nové pracovníky. | The company will hire new staff. | najmout | 3sg | najme | najmout → najme.
+Future | Tohle rozhodnutí ___ problémy. | This decision will cause problems. | způsobit | 3sg | způsobí | Perfective: způsobí.
+Future | Ten problém ___ později. | We'll deal with that problem later. | řešit | 1pl | budeme řešit | Imperfective: budeme řešit.
+Future | Myslíš, že to ___? | Do you think he'll admit it? | přiznat | 3sg | přizná | Perfective: přizná.
+Future | Zítra se ___ o vaší žádosti. | Tomorrow we'll decide on your application. | rozhodnout se | 1pl | rozhodneme | rozhodnout se → rozhodneme se.
+Future | Nová linka ___ obě města. | The new line will connect both towns. | spojit | 3sg | spojí | Perfective: spojí.
+Future | Na zasedání ___ ministr. | The minister will speak at the session. | vystoupit | 3sg | vystoupí | vystoupit = to speak publicly.
+Future | Kdy ___ ten projekt? | When will you launch the project? (vy) | spustit | 2pl | spustíte | Perfective: spustíte.
+Future | To ti ___ hodně času. | That will save you a lot of time. | ušetřit | 3sg | ušetří | Perfective: ušetří.
+Future | Lékař vás ___ zítra. | The doctor will examine you tomorrow. | vyšetřit | 3sg | vyšetří | Perfective: vyšetří.
+Future | Ještě to ___. | I'll still consider it. | zvážit | 1sg | zvážím | Perfective: zvážím.
+Future | Brzy se ___, kdo měl pravdu. | We'll soon see who was right. | ukázat | 3sg | ukáže | ukázat se → ukáže se.
+Future | Zítra ___ ve svědecké výpovědi. | Tomorrow he'll continue his testimony. | pokračovat | 3sg | bude pokračovat | Imperfective: bude pokračovat.
+Future | Ta zkušenost tě ___. | That experience will strengthen you. | posílit | 3sg | posílí | Perfective: posílí.
+Future | Svou chybu ___. | I'll put my mistake right. | napravit | 1sg | napravím | Perfective: napravím.
+Future | Zítra ___ smlouvu. | Tomorrow we'll sign the contract. | podepsat | 1pl | podepíšeme | podepsat → podepíšeme.
+Future | ___ si to ještě jednou? | Will you check it once more? (ty) | ověřit | 2sg | Ověříš | Perfective: ověříš si.
+Future | Ta firma ___ do pěti let. | That company will collapse within five years. | zaniknout | 3sg | zanikne | Perfective: zanikne.
+Future | Kdo ___ za škody? | Who will pay for the damage? | zaplatit | 3sg | zaplatí | Perfective: zaplatí.
+Future | V roce 2030 tu ___ nová nemocnice. | In 2030 there will be a new hospital here. | stát | 3sg | bude stát | Imperfective: bude stát.
+Future | Ty peníze ___ do vzdělání. | We'll invest the money in education. | investovat | 1pl | investujeme | investovat is both aspects: investujeme / budeme investovat.
+Future | Uvidíme, jak se situace ___. | We'll see how the situation develops. | vyvinout | 3sg | vyvine | vyvinout se → vyvine se.
+Future | Tento krok ___ důvěru zákazníků. | This step will strengthen customers' trust. | posílit | 3sg | posílí | Perfective: posílí.
+Future | Snad se mu ___ odolat. | Hopefully he'll manage to resist. | povést se | 3sg | povede | povést se → povede se.
+Future | Komise ___ všechny návrhy. | The committee will assess all the proposals. | posoudit | 3sg | posoudí | Perfective: posoudí.
+Conditional | ___ cestující dřív, nemuseli bychom čekat. | If they had warned the passengers earlier, we wouldn't have had to wait. | upozornit | 3pl | Kdyby upozornili | Kdyby + -li (they).
+Conditional | Bez jejich pomoci ___. | Without their help we would have failed. | selhat | 1pl | bychom selhali | selhat → selhali.
+Conditional | ___, co se stane, nikdy bych to neudělal. | If I'd suspected what would happen, I'd never have done it. | tušit | 1sg | Kdybych tušil / Kdybych tušila | tušit → tušil.
+Conditional | Ocenil bych, ___ co nejdřív. | I’d appreciate it if you replied as soon as possible. | odpovědět | 2pl | kdybyste odpověděli | odpovědět → odpověděli.
+Conditional | ___ dohodu, nebyl by konflikt. | If they had kept the agreement, there'd be no conflict. | dodržet | 3pl | Kdyby dodrželi | dodržet → dodrželi.
+Conditional | Na vašem místě ___ ten problém s právníkem. | In your place I’d discuss the problem with a lawyer. | probrat | 1sg | bych probral / bych probrala | probrat → probral.
+Conditional | ___ víc lidí, situace by se zlepšila. | If more people got involved, the situation would improve. | zapojit | 3sg | Kdyby se zapojilo | víc lidí → zapojilo se (neuter); se stays.
+Conditional | ___ dřív, nebyla by v nemocnici. | If she had looked after herself earlier, she wouldn't be in hospital. | šetřit | 3sg | Kdyby se šetřila | Whole verb: bych/bys/by… + se/si + -l form.
+Conditional | ___ ředitel ten návrh, souhlasil bych. | If the director supported the proposal, I'd agree. | podpořit | 3sg | Kdyby podpořil | Kdyby + -l form.
+Conditional | ___ podmínky, dostali byste slevu. | If you met the conditions, you'd get a discount. | splnit | 2pl | Kdybyste splnili | splnit → splnili.
+Conditional | Kdo ___, že vyhrají? | Who would have thought they'd win? | myslet | 3sg | by myslel | myslet → myslel.
+Conditional | ___ šéf naši práci, odešli bychom. | If the boss didn't value our work, we'd leave. | ocenit | 3sg | Kdyby neocenil | Kdyby + negative -l form.
+Conditional | ___ ten krok, zachránili by firmu. | If they had taken that step, they'd have saved the company. | udělat | 3pl | Kdyby udělali | udělat → udělali.
+Conditional | ___, věděl bys to. | If you had found out, you would know. | informovat | 2sg | Kdyby ses informoval / Kdyby ses informovala | Whole verb: bych/bys/by… + se/si + -l form.
+Conditional | ___ dřív, mohli bychom tomu zabránit. | If we had intervened earlier, we could have prevented it. | zasáhnout | 1pl | Kdybychom zasáhli | zasáhnout → zasáhli.
+Conditional | ___ zákon, museli bychom zaplatit pokutu. | If we broke the law, we'd have to pay a fine. | porušit | 1pl | Kdybychom porušili | my: kdybychom + -li.
+Conditional | Na tvém místě ___ ty věci doma. | If I were you, I’d leave those things at home. | nechat | 1sg | bych nechal / bych nechala | nechat to být = let it be.
+Conditional | ___ odvahu, řekl bych jí to. | If I had the courage, I'd tell her. | mít | 1sg | Kdybych měl / Kdybych měla | mít → měl.
+Conditional | ___ ta zpráva pravdivá, bylo by to vážné. | If the report were true, it would be serious. | být | 3sg | Kdyby byla | Kdyby + -l form; zpráva → byla.
+Conditional | ___ nová data, změnili bychom názor. | If new data appeared, we would change our view. | objevit | 3pl | Kdyby se objevila | data is neuter plural: objevila.
+Conditional | ___ celou rodinu, přijeli bychom. | If they had invited the whole family, we would have come. | pozvat | 3pl | Kdyby pozvali | Kdyby + -li (they).
+Conditional | ___ ten produkt, byli byste spokojeni. | If you tried the product, you’d be satisfied. | vyzkoušet | 2pl | Kdybyste vyzkoušeli | vyzkoušet → vyzkoušeli.
+Conditional | Bylo by vhodné, ___ i rodiče. | It would be appropriate if the parents took part too. | zúčastnit se | 3pl | kdyby se zúčastnili | zúčastnit se → zúčastnili.
+Conditional | ___ dost času, dokončili bychom to. | If there were enough time, we'd finish it. | zbýt | 3sg | Kdyby zbylo | zbýt → zbylo.
+Conditional | ___ ten zázrak sám, nevěřil bych tomu. | If I hadn’t seen the miracle myself, I wouldn’t believe it. | vidět | 1sg | Kdybych neviděl | Negative: neviděl.
+Conditional | ___ ceny, lidé by víc nakupovali. | If prices fell, people would buy more. | klesnout | 3pl | Kdyby klesly | ceny: klesly.
+Conditional | ___ víc, pochopil bys to. | If you thought about it more, you'd understand. | přemýšlet | 2sg | Kdybys přemýšlel / Kdybys přemýšlela | přemýšlet → přemýšlel.
+Conditional | ___ dohodnout, ušetřili by peníze. | If they managed to agree, they'd save money. | povést se | 3sg | Kdyby se povedlo | Whole verb: bych/bys/by… + se/si + -l form.
+Conditional | ___ firma, přišli bychom o práci. | If the company closed down, we'd lose our jobs. | zaniknout | 3sg | Kdyby zanikla | firma is feminine.
+Conditional | ___ ten dopis dřív, odpověděl bych. | If I had received the letter earlier, I’d have replied. | obdržet | 1sg | Kdybych obdržel | obdržet → obdržel.
+Imperative | ___ se, prosím, s pravidly. | Please familiarise yourself with the rules. (vy) | seznámit se | 2pl | Seznamte | seznámit se → seznamte se.
+Imperative | ___ všechny údaje. | Check all the details. (vy) | ověřit | 2pl | Ověřte | ověřit → ověř, ověřte.
+Imperative | ___ si dokumenty. | Keep the documents. (vy) | uchovat | 2pl | Uchovejte | uchovat → uchovej, uchovejte.
+Imperative | ___ přihlášku do pátku. | Send the application by Friday. (vy) | zaslat | 2pl | Zašlete | zaslat → zašli, zašlete.
+Imperative | ___ se toho nápadu! | Don't give up on that idea! (ty) | vzdávat se | 2sg | Nevzdávej | Imperfective negative: nevzdávej se.
+Imperative | ___ se, co chceš. | Decide what you want. (ty) | rozhodnout se | 2sg | Rozhodni | rozhodnout se → rozhodni se.
+Imperative | ___ mi, prosím, jestli přijdete. | Please let me know whether you're coming. (vy) | dát | 2pl | Dejte | dát vědět → dejte vědět.
+Imperative | ___ se na podstatu věci. | Concentrate on the heart of the matter. (vy) | zaměřit se | 2pl | Zaměřte | zaměřit se → zaměřte se.
+Imperative | ___ mi, že to nebudeš opakovat. | Promise me you won't repeat it. (ty) | slíbit | 2sg | Slib | slíbit → slib.
+Imperative | ___ si to dobře. | Think it over carefully. (vy) | zvážit | 2pl | Zvažte | zvážit → zvaž, zvažte.
+Imperative | ___ se na místo nehody. | Make your way to the scene of the accident. (vy) | dostavit se | 2pl | Dostavte | dostavit se → dostavte se.
+Imperative | ___ ten problém s vedoucím. | Discuss the problem with the manager. (ty) | probrat | 2sg | Prober | probrat → prober.
+Imperative | ___ nás, pokud budete potřebovat pomoc. | Contact us if you need help. (vy) | kontaktovat | 2pl | Kontaktujte | -ovat → -ujte.
+Imperative | ___ se, prosím, tady. | Please sign here. (vy) | podepsat | 2pl | Podepište | podepsat → podepiš, podepište.
+Imperative | ___ všechna pole formuláře. | Fill in all the fields of the form. (vy) | vyplnit | 2pl | Vyplňte | vyplnit → vyplňte.
+Imperative | ___ se do toho! | Don't get involved in it! (ty) | plést | 2sg | Nepleť | Negative: nepleť se do toho.
+Imperative | ___ se na chvíli a zamysli se. | Stop for a moment and think. (ty) | zastavit | 2sg | Zastav | zastavit se → zastav se.
+Imperative | ___ trpělivost. | Be patient. (vy) | mít | 2pl | Mějte | mít → měj, mějte.
+Imperative | ___ se nad sebou! | Take a look at yourself! (ty) | zamyslet se | 2sg | Zamysli | zamyslet se → zamysli se.
+Imperative | ___ ho, ať zavolá. | Remind him to call. (ty) | upozornit | 2sg | Upozorni | upozornit → upozorni.
+Imperative | ___ to ještě jednou. | Let's check it once more. | ověřit | 1pl | Ověřme | Let's: ověřte → ověřme.
+Imperative | ___ se. | Let's agree. | dohodnout se | 1pl | Dohodněme | Let's: dohodněte → dohodněme.
+Imperative | ___ se toho. | Let's not be afraid of it. | bát se | 1pl | Nebojme | Let's not: nebojte → nebojme.
+Imperative | ___ mi svůj názor. | Tell me your opinion. (vy) | sdělit | 2pl | Sdělte | sdělit → sděl, sdělte.
+Imperative | ___ na to, co říkáš. | Mind what you say. (ty) | dávat | 2sg | Dávej | dávat pozor → dávej pozor.
+Imperative | ___ si ze mě legraci! | Don't make fun of me! (vy) | dělat | 2pl | Nedělejte | Negative: nedělejte si legraci.
+Imperative | ___ trochu. | Slow down a bit. (ty) | zpomalit | 2sg | Zpomal | zpomalit → zpomal.
+Imperative | ___ si odpočinek. | Treat yourself to a rest. (ty) | dopřát si | 2sg | Dopřej | dopřát si → dopřej si.
+Imperative | ___ dál, prosím. | Please carry on. (vy) | pokračovat | 2pl | Pokračujte | -ovat → -ujte.
+Imperative | ___ se nevzdávat. | Try not to give up. (ty) | snažit se | 2sg | Snaž | snažit se → snaž se.

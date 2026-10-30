@@ -1,0 +1,526 @@
+# Verbs listed in "Soupis lexikálních jednotek úrovně A1, A2" (Referenční popis češtiny, NÚV). One per line: verb <tab> A1/A2 <tab> aspect
+barvit	A2	imperfektivní
+bavit	A2	imperfektivní
+bavit se	A2	imperfektivní
+blahopřát	A1	imperfektivní
+bolet	A1	imperfektivní
+bruslit	A1	imperfektivní
+brát	A1	imperfektivní
+budit se	A2	imperfektivní
+bydlet	A1	imperfektivní
+bát se	A1	imperfektivní
+být	A1	imperfektivní
+běhat	A2	imperfektivní
+běžet	A2	imperfektivní
+cestovat	A1	imperfektivní
+chatovat	A2	imperfektivní
+chodit	A1	imperfektivní
+chovat	A2	imperfektivní
+chtít	A1	imperfektivní
+chutnat	A1	imperfektivní
+chybět	A2	imperfektivní
+chytat	A2	imperfektivní
+chápat	A2	imperfektivní
+cvičit	A1	imperfektivní
+cítit	A1	imperfektivní
+dodržovat	A2	imperfektivní
+doplatit	A2	perfektivní
+doplácet	A2	imperfektivní
+doporučit	A1	perfektivní
+doporučovat	A2	imperfektivní
+dostat	A2	perfektivní
+dostavit se	A2	perfektivní
+doufat	A2	imperfektivní
+dovolit	A2	perfektivní
+držet	A2	imperfektivní
+dusit	A2	imperfektivní
+dát	A1	perfektivní
+dát si	A1	perfektivní
+dávat	A2	imperfektivní
+dít se	A2	imperfektivní
+dívat se	A1	imperfektivní
+dýchat	A1	imperfektivní
+děkovat	A1	imperfektivní
+dělat	A2	imperfektivní
+dělat si	A2	imperfektivní
+fandit	A2	imperfektivní
+fotografovat	A1	imperfektivní
+foukat	A1	imperfektivní
+fungovat	A1	imperfektivní
+gratulovat	A2	imperfektivní
+grilovat	A2	imperfektivní
+hlasovat	A2	imperfektivní
+hledat	A1	imperfektivní
+hláskovat	A1	imperfektivní
+hodit se	A2	imperfektivní
+holit se	A2	imperfektivní
+hořet	A1	imperfektivní
+hrozit	A2	imperfektivní
+hrát	A1	imperfektivní
+informovat	A1	imperfektivní
+jet	A1	imperfektivní
+jezdit	A1	imperfektivní
+jmenovat se	A1	imperfektivní
+jíst	A1	imperfektivní
+jít	A1	imperfektivní
+kašlat	A1	imperfektivní
+klesat	A2	imperfektivní
+klesnout	A2	perfektivní
+kojit	A1	imperfektivní
+konat se	A2	imperfektivní
+kontrolovat	A1	imperfektivní
+končit	A1	imperfektivní
+koupat se	A1	imperfektivní
+koupit	A1	perfektivní
+kreslit	A1	imperfektivní
+krvácet	A2	imperfektivní
+krájet	A2	imperfektivní
+kupovat	A1	imperfektivní
+lehat si	A2	imperfektivní
+lehnout si	A2	perfektivní
+letět	A1	imperfektivní
+ležet	A1	imperfektivní
+litovat	A2	imperfektivní
+luxovat	A2	imperfektivní
+lyžovat	A1	imperfektivní
+létat	A2	imperfektivní
+lézt	A2	imperfektivní
+léčit	A2	imperfektivní
+léčit se	A2	imperfektivní
+líbit se	A1	imperfektivní
+lít	A2	imperfektivní
+malovat	A2	imperfektivní
+malovat se	A2	imperfektivní
+masírovat	A2	imperfektivní
+mluvit	A1	imperfektivní
+moct	A1	imperfektivní
+mrznout	A1	imperfektivní
+muset	A1	imperfektivní
+myslet	A2	imperfektivní
+míchat	A2	imperfektivní
+mít	A1	imperfektivní
+mít se	A1	imperfektivní
+mýt	A1	imperfektivní
+mýt se	A1	imperfektivní
+měřit	A1	imperfektivní
+nabídnout	A2	perfektivní
+nabízet	A1	imperfektivní
+najíst se	A2	perfektivní
+najít	A2	perfektivní
+nakoupit	A2	perfektivní
+nakreslit	A2	perfektivní
+nakrájet	A2	perfektivní
+nakupovat	A1	imperfektivní
+nalít	A2	perfektivní
+namalovat se	A2	perfektivní
+namasírovat	A2	perfektivní
+naobědvat se	A2	perfektivní
+napsat	A1	perfektivní
+napít se	A2	perfektivní
+narodit se	A1	perfektivní
+nasnídat se	A2	perfektivní
+nastoupit	A1	perfektivní
+nastupovat	A1	imperfektivní
+nasvačit se	A2	perfektivní
+nasypat	A2	perfektivní
+natankovat	A2	perfektivní
+naučit se	A1	perfektivní
+navečeřet se	A2	perfektivní
+navštívit	A2	perfektivní
+navštěvovat	A1	imperfektivní
+nebavit	A2	imperfektivní
+nehodit se	A1	imperfektivní
+nepamatovat si	A2	imperfektivní
+nesmět	A1	imperfektivní
+nesnášet	A2	imperfektivní
+neudělat	A1	perfektivní
+neumět	A1	imperfektivní
+nevzpomenout si	A2	perfektivní
+nevzpomínat si	A2	imperfektivní
+nevědět	A2	imperfektivní
+nezajímat	A2	imperfektivní
+nezapomenout	A2	perfektivní
+nosit	A1	imperfektivní
+nést	A1	imperfektivní
+obarvit	A2	perfektivní
+objednat se	A1	perfektivní
+objednat si	A2	perfektivní
+objet	A2	perfektivní
+objíždět	A2	imperfektivní
+oblékat se	A1	imperfektivní
+obléknout se	A2	perfektivní
+obědvat	A1	imperfektivní
+ochutnat	A2	perfektivní
+odbavit se	A2	perfektivní
+odbočit	A2	perfektivní
+odbočovat	A2	imperfektivní
+odcházet	A1	imperfektivní
+odejít	A1	perfektivní
+odjet	A1	perfektivní
+odjíždět	A1	imperfektivní
+odletět	A2	perfektivní
+odložit si	A1	perfektivní
+odnést	A2	perfektivní
+odpovídat	A1	imperfektivní
+odpovědět	A1	perfektivní
+odpočinout si	A2	perfektivní
+odpočívat	A1	imperfektivní
+odvést	A2	perfektivní
+odvézt	A2	perfektivní
+ohlásit	A2	perfektivní
+oholit se	A2	perfektivní
+omlouvat se	A1	imperfektivní
+opakovat	A1	imperfektivní
+operovat	A2	imperfektivní
+opravit	A1	perfektivní
+opravovat	A1	imperfektivní
+ordinovat	A2	imperfektivní
+osmažit	A2	perfektivní
+osprchovat se	A2	perfektivní
+ostříhat	A2	perfektivní
+otevírat	A1	imperfektivní
+otevřít	A1	perfektivní
+otočit se	A2	perfektivní
+otáčet se	A2	imperfektivní
+ověřit	A2	perfektivní
+ověřovat	A2	imperfektivní
+označit	A2	perfektivní
+ošetřit	A2	perfektivní
+ošetřovat	A2	imperfektivní
+oženit se	A2	perfektivní
+padat	A2	imperfektivní
+pamatovat si	A2	imperfektivní
+parkovat	A1	imperfektivní
+patřit	A2	imperfektivní
+platit	A1	imperfektivní
+plavat	A1	imperfektivní
+plombovat	A2	imperfektivní
+pochybovat	A2	imperfektivní
+podat	A2	perfektivní
+podepsat	A1	perfektivní
+podnikat	A1	imperfektivní
+podívat se	A2	perfektivní
+pojistit	A1	perfektivní
+pojistit se	A2	perfektivní
+pokládat	A2	imperfektivní
+pokračovat	A1	imperfektivní
+položit	A2	perfektivní
+pomoct	A1	imperfektivní
+pomáhat	A1	imperfektivní
+porozumět	A2	perfektivní
+posadit	A2	perfektivní
+poslat	A1	perfektivní
+poslechnout si	A2	perfektivní
+poslouchat	A1	imperfektivní
+pospíchat	A2	imperfektivní
+postavit	A2	perfektivní
+posílat	A2	imperfektivní
+potřebovat	A1	imperfektivní
+pouštět si	A2	imperfektivní
+použít	A2	perfektivní
+používat	A2	imperfektivní
+pověsit	A2	perfektivní
+poznávat	A2	imperfektivní
+pozvat	A2	perfektivní
+počkat	A2	perfektivní
+počítat	A1	imperfektivní
+požádat	A2	perfektivní
+pracovat	A1	imperfektivní
+probudit se	A2	perfektivní
+procházet se	A1	imperfektivní
+prodat	A1	perfektivní
+prodávat	A1	imperfektivní
+prohlédnout	A1	perfektivní
+prohlédnout si	A2	perfektivní
+prohlížet si	A2	imperfektivní
+prohrát	A2	perfektivní
+prohrávat	A2	imperfektivní
+projet	A2	perfektivní
+projít	A2	perfektivní
+projít se	A2	perfektivní
+projíždět	A2	imperfektivní
+prominout	A1	perfektivní
+pronajmout	A2	perfektivní
+pronajmout si	A1	perfektivní
+pronajímat	A2	imperfektivní
+pronajímat si	A1	imperfektivní
+prosit	A1	imperfektivní
+prát	A1	imperfektivní
+pršet	A1	imperfektivní
+psát	A1	imperfektivní
+ptát se	A2	imperfektivní
+pustit	A2	perfektivní
+pustit si	A2	perfektivní
+páchnout	A2	imperfektivní
+péct	A2	imperfektivní
+píchnout	A2	perfektivní
+pít	A1	imperfektivní
+pěstovat	A2	imperfektivní
+přecházet	A2	imperfektivní
+předat	A2	perfektivní
+předepsat	A2	perfektivní
+předjet	A2	perfektivní
+předjíždět	A2	imperfektivní
+předložit	A1	perfektivní
+představit	A1	perfektivní
+přejet	A2	perfektivní
+přejít	A2	perfektivní
+přejíždět	A2	imperfektivní
+překládat	A1	imperfektivní
+přeložit	A1	perfektivní
+přepojit	A2	perfektivní
+přepočítat	A2	perfektivní
+přestat	A2	perfektivní
+přestoupit	A1	perfektivní
+přestupovat	A1	imperfektivní
+přestávat	A2	imperfektivní
+přestěhovat se	A2	perfektivní
+přečíst	A2	perfektivní
+přicházet	A1	imperfektivní
+přidat	A2	perfektivní
+přihlásit se	A1	perfektivní
+přijet	A1	perfektivní
+přijít	A1	perfektivní
+přijíždět	A1	imperfektivní
+přiletět	A2	perfektivní
+přinést	A2	perfektivní
+připravit	A2	perfektivní
+připravovat	A1	imperfektivní
+přivést	A2	perfektivní
+přivézt	A2	perfektivní
+přát	A2	imperfektivní
+přát si	A1	imperfektivní
+půjčit	A1	perfektivní
+půjčit si	A1	perfektivní
+půjčovat	A2	imperfektivní
+půjčovat si	A2	imperfektivní
+reklamovat	A2	imperfektivní
+rezervovat	A1	imperfektivní
+rezervovat si	A1	imperfektivní
+rodit	A2	imperfektivní
+rozsvítit	A2	perfektivní
+rozumět	A1	imperfektivní
+rozvádět se	A2	imperfektivní
+rozvést se	A2	perfektivní
+růst	A2	imperfektivní
+sbírat	A2	imperfektivní
+schvalovat	A2	imperfektivní
+scházet se	A2	imperfektivní
+sedat si	A2	imperfektivní
+sednout si	A2	perfektivní
+sedět	A1	imperfektivní
+sejít	A2	perfektivní
+sejít se	A1	perfektivní
+seznamovat se	A2	imperfektivní
+seznámit se	A2	perfektivní
+sjet	A2	perfektivní
+skončit	A2	perfektivní
+skypovat	A2	imperfektivní
+slušet	A2	imperfektivní
+slyšet	A1	imperfektivní
+smažit	A2	imperfektivní
+smíchat	A2	perfektivní
+smět	A1	imperfektivní
+snášet	A2	imperfektivní
+snídat	A1	imperfektivní
+sníst	A2	perfektivní
+sněžit	A1	imperfektivní
+souhlasit	A2	imperfektivní
+soutěžit	A2	imperfektivní
+spadnout	A1	perfektivní
+sportovat	A1	imperfektivní
+spočítat	A2	perfektivní
+sprchovat se	A1	imperfektivní
+spáchat	A2	perfektivní
+spálit se	A2	perfektivní
+spát	A1	imperfektivní
+srazit se	A2	perfektivní
+stahovat	A2	imperfektivní
+stačit	A1	imperfektivní
+stisknout	A2	perfektivní
+stoupat	A2	imperfektivní
+stoupnout	A2	perfektivní
+stravovat se	A2	imperfektivní
+studovat	A1	imperfektivní
+stáhnout	A2	perfektivní
+stát	A1	imperfektivní
+stát se	A2	perfektivní
+stříhat	A2	imperfektivní
+sušit	A2	imperfektivní
+svačit	A2	imperfektivní
+svléknout se	A1	perfektivní
+svítit	A1	imperfektivní
+sypat	A2	imperfektivní
+tancovat	A1	imperfektivní
+tankovat	A2	imperfektivní
+telefonovat	A1	imperfektivní
+tlačit	A2	imperfektivní
+tlumočit	A1	imperfektivní
+topit	A2	imperfektivní
+trhat	A2	imperfektivní
+trvat	A1	imperfektivní
+trápit	A2	imperfektivní
+trénovat	A2	imperfektivní
+tweetovat	A2	imperfektivní
+téct	A1	imperfektivní
+těšit	A2	imperfektivní
+udělat	A1	perfektivní
+ukazovat	A2	imperfektivní
+uklidit	A2	perfektivní
+uklidnit se	A2	perfektivní
+uklízet	A1	imperfektivní
+ukončit	A2	perfektivní
+ukrást	A1	perfektivní
+ukázat	A1	perfektivní
+uložit	A2	perfektivní
+umýt	A2	perfektivní
+umýt se	A2	perfektivní
+umět	A1	imperfektivní
+upéct	A2	perfektivní
+usušit	A2	perfektivní
+uvařit	A2	perfektivní
+uvidět	A2	perfektivní
+uzavřít	A2	perfektivní
+uznat	A2	perfektivní
+uznávat	A2	imperfektivní
+učesat se	A2	perfektivní
+učit	A1	imperfektivní
+učit se	A1	imperfektivní
+ušít	A2	perfektivní
+užívat	A2	imperfektivní
+vadit	A1	imperfektivní
+vařit	A1	imperfektivní
+vdát se	A2	perfektivní
+večeřet	A1	imperfektivní
+vidět	A1	imperfektivní
+viset	A2	imperfektivní
+vjet	A2	perfektivní
+vjíždět	A2	imperfektivní
+vládnout	A2	imperfektivní
+vodit	A2	imperfektivní
+volat	A1	imperfektivní
+volit	A2	imperfektivní
+vonět	A2	imperfektivní
+vozit	A2	imperfektivní
+vracet	A2	imperfektivní
+vracet se	A1	imperfektivní
+vrátit	A1	perfektivní
+vrátit se	A1	perfektivní
+vstoupit	A2	perfektivní
+vstupovat	A2	imperfektivní
+vstát	A2	perfektivní
+vstávat	A1	imperfektivní
+vybrat	A2	perfektivní
+vybuchnout	A2	perfektivní
+vybírat	A2	imperfektivní
+vydělat	A2	perfektivní
+vydělávat	A1	imperfektivní
+vyhovovat	A2	imperfektivní
+vyhrát	A2	perfektivní
+vyhrávat	A2	imperfektivní
+vyjet	A2	perfektivní
+vyjmenovat	A2	perfektivní
+vyjít	A2	perfektivní
+vyjíždět	A2	imperfektivní
+vykoupat se	A2	perfektivní
+vyluxovat	A2	perfektivní
+vyměnit	A1	perfektivní
+vyměňovat	A2	imperfektivní
+vypadat	A2	imperfektivní
+vyplnit	A2	perfektivní
+vyplňovat	A2	imperfektivní
+vypnout	A1	perfektivní
+vypočítat	A1	perfektivní
+vyprat	A1	perfektivní
+vyprávět	A2	imperfektivní
+vypínat	A2	imperfektivní
+vypít	A2	perfektivní
+vyslovovat	A1	imperfektivní
+vystoupit	A2	perfektivní
+vystudovat	A1	perfektivní
+vystupovat	A2	imperfektivní
+vysvětlit	A1	perfektivní
+vysvětlovat	A2	imperfektivní
+vytrhnout	A2	perfektivní
+vyučit se	A2	perfektivní
+vyučovat	A2	imperfektivní
+vyčistit	A2	perfektivní
+vyčistit si	A1	perfektivní
+vyšetřit	A2	perfektivní
+vyžehlit	A2	perfektivní
+vzpomenout si	A2	perfektivní
+vzpomínat si	A2	imperfektivní
+vzít si	A2	perfektivní
+vážit	A1	imperfektivní
+vést	A2	imperfektivní
+vézt	A2	imperfektivní
+vítat	A2	imperfektivní
+vědět	A1	imperfektivní
+věřit	A2	imperfektivní
+zabalit	A2	perfektivní
+zablokovat	A1	perfektivní
+zabruslit si	A2	perfektivní
+zaběhat si	A2	perfektivní
+zachránit	A2	perfektivní
+zacvičit si	A2	perfektivní
+zadat	A1	perfektivní
+zahnout	A1	perfektivní
+zahrát si	A2	perfektivní
+zahýbat	A2	imperfektivní
+zajímat	A2	imperfektivní
+zaparkovat	A2	perfektivní
+zapisovat	A2	imperfektivní
+zapisovat se	A2	imperfektivní
+zaplatit	A1	perfektivní
+zaplavat si	A2	perfektivní
+zaplombovat	A2	perfektivní
+zapnout	A1	perfektivní
+zapomenout	A2	perfektivní
+zapsat	A2	perfektivní
+zapsat se	A2	perfektivní
+zapínat	A2	imperfektivní
+zarezervovat si	A2	perfektivní
+zastavit	A1	perfektivní
+zastavovat	A2	imperfektivní
+zavolat	A2	perfektivní
+zavírat	A1	imperfektivní
+zavřít	A1	perfektivní
+zazpívat	A2	perfektivní
+začínat	A1	imperfektivní
+začít	A2	perfektivní
+zaškrtnout	A2	perfektivní
+zdravit	A1	imperfektivní
+zemřít	A1	perfektivní
+zeptat se	A2	perfektivní
+zhasnout	A2	perfektivní
+zkusit	A1	perfektivní
+zkusit si	A1	perfektivní
+zlobit se	A2	imperfektivní
+změnit	A1	perfektivní
+změřit	A2	perfektivní
+znát	A1	imperfektivní
+zopakovat	A1	perfektivní
+zpívat	A1	imperfektivní
+zranit se	A2	perfektivní
+ztratit	A1	perfektivní
+zvolit	A2	perfektivní
+zvracet	A1	imperfektivní
+zvát	A1	imperfektivní
+zvážit	A2	perfektivní
+zvítězit	A2	perfektivní
+zúčastnit se	A2	perfektivní
+zůstat	A2	perfektivní
+účastnit se	A2	imperfektivní
+čekat	A1	imperfektivní
+česat se	A1	imperfektivní
+čistit	A1	imperfektivní
+číst	A1	imperfektivní
+říct	A1	perfektivní
+řídit	A1	imperfektivní
+říkat	A1	imperfektivní
+říznout se	A2	perfektivní
+štvát	A1	imperfektivní
+šít	A2	imperfektivní
+žehlit	A2	imperfektivní
+žádat	A2	imperfektivní
+žít	A1	imperfektivní

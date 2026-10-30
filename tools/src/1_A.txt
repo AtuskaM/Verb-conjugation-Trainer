@@ -1,0 +1,187 @@
+#A
+# lemma | aspect | partner | english | 1sg / 2sg / 3pl | imperative | past | phrases
+stát | i | - | to stand; to cost | stojím / stojíš / stojí | stůj | stál | kde (6) = stát na zastávce = stand at the stop ; kolik = Kolik to stojí? = How much does it cost?
+stát se | p | stávat se | to happen; to become | stanu / staneš / stanou | - | stal | výraz = Co se stalo? = What happened? ; kým/čím (7) = stát se učitelem = become a teacher
+dostat | p | dostávat | to get, receive | dostanu / dostaneš / dostanou | dostaň | dostal | co (4) = dostat dárek = get a present ; od koho (2) = dostat dopis od mámy = get a letter from mum
+dostávat | i | dostat | to get, receive (regularly) | dostávám / dostáváš / dostávají | dostávej | dostával | co (4) = dostávat e-maily = get emails
+vrátit | p | vracet | to give back, return | vrátím / vrátíš / vrátí | vrať | vrátil | komu (3) co (4) = vrátit peníze kamarádovi = give the money back to a friend
+nechat | p | nechávat | to leave; to let | nechám / necháš / nechají | nech | nechal | co (4) = nechat klíče doma = leave the keys at home ; koho (4) + infinitiv = Nech mě spát. = Let me sleep.
+zůstat | p | zůstávat | to stay | zůstanu / zůstaneš / zůstanou | zůstaň | zůstal | kde (6) = zůstat doma = stay at home
+zůstávat | i | zůstat | to stay (regularly, for a time) | zůstávám / zůstáváš / zůstávají | zůstávej | zůstával | kde (6) = zůstávat v hotelu = stay in a hotel
+snažit se | i | - | to try | snažím / snažíš / snaží | snaž | snažil | infinitiv = snažit se mluvit česky = try to speak Czech
+hrát | i | zahrát | to play | hraju / hraješ / hrajou | hraj | hrál | co (4) = hrát fotbal = play football ; na co (4) = hrát na kytaru = play the guitar
+zahrát si | p | hrát | to play (a game, once) | zahraju / zahraješ / zahrajou | zahraj | zahrál | co (4) = zahrát si tenis = have a game of tennis
+vypadat | i | - | to look, seem | vypadám / vypadáš / vypadají | vypadej | vypadal | jak = vypadat dobře = look good ; jako kdo (1) = vypadat jako táta = look like dad
+znamenat | i | - | to mean | znamenám / znamenáš / znamenají | - | znamenal | co (4) = Co to znamená? = What does it mean?
+myslet | i | - | to think | myslím / myslíš / myslí | mysli | myslel | na koho/co (4) = myslet na rodinu = think of the family ; že = Myslím, že ano. = I think so.
+děkovat | i | poděkovat | to thank | děkuju / děkuješ / děkujou | děkuj | děkoval | komu (3) za co (4) = děkovat za pomoc = thank for the help
+poděkovat | p | děkovat | to thank | poděkuju / poděkuješ / poděkujou | poděkuj | poděkoval | komu (3) = poděkovat učitelce = thank the teacher
+věřit | i | uvěřit | to believe | věřím / věříš / věří | věř | věřil | komu (3) = věřit kamarádovi = believe a friend ; v co (4) = věřit v lásku = believe in love
+zdát se | i | - | to seem; to dream | zdám / zdáš / zdají | - | zdál | komu (3) = Zdá se mi, že… = It seems to me that… ; o kom/čem (6) = Zdálo se mi o tobě. = I dreamt about you.
+dojít | p | docházet | to go and get; to reach (on foot) | dojdu / dojdeš / dojdou | dojdi | došel/došla | pro co (4) = dojít pro chleba = go and get some bread ; kam = dojít domů = get home
+jmenovat se | i | - | to be called | jmenuju / jmenuješ / jmenujou | - | jmenoval | jak = Jak se jmenuješ? = What's your name?
+ukázat | p | ukazovat | to show | ukážu / ukážeš / ukážou | ukaž | ukázal | komu (3) co (4) = ukázat turistovi cestu = show a tourist the way
+ukazovat | i | ukázat | to show; to point | ukazuju / ukazuješ / ukazujou | ukazuj | ukazoval | na co (4) = ukazovat na mapu = point at the map
+cítit se | i | - | to feel | cítím / cítíš / cítí | - | cítil | jak = cítit se dobře = feel well
+rozumět | i | porozumět | to understand | rozumím / rozumíš / rozumí, rozumějí | rozuměj | rozuměl | komu/čemu (3) = rozumět češtině = understand Czech
+rozhodnout se | p | rozhodovat se | to decide | rozhodnu / rozhodneš / rozhodnou | rozhodni | rozhodl | pro koho/co (4) = rozhodnout se pro modré auto = decide on the blue car ; infinitiv = rozhodnout se zůstat = decide to stay
+držet | i | - | to hold | držím / držíš / drží | drž | držel | co (4) = držet tašku = hold a bag
+stačit | i | - | to be enough | stačím / stačíš / stačí | - | stačil | komu (3) = To mi stačí. = That's enough for me.
+změnit | p | měnit | to change | změním / změníš / změní | změň | změnil | co (4) = změnit plán = change the plan
+zastavit | p | zastavovat | to stop | zastavím / zastavíš / zastaví | zastav | zastavil | co (4) = zastavit auto = stop the car ; kde (6) = zastavit na rohu = stop at the corner
+zjistit | p | zjišťovat | to find out | zjistím / zjistíš / zjistí | zjisti | zjistil | co (4) = zjistit adresu = find out the address
+patřit | i | - | to belong | patřím / patříš / patří | - | patřil | komu (3) = To patří mně. = That belongs to me.
+přinést | p | přinášet | to bring | přinesu / přineseš / přinesou | přines | přinesl | komu (3) co (4) = přinést mámě kytku = bring mum some flowers
+trvat | i | - | to last, take (time) | trvám / trváš / trvají | - | trval | jak dlouho = Jak dlouho to trvá? = How long does it take?
+poznat | p | poznávat | to recognise; to get to know | poznám / poznáš / poznají | poznej | poznal | koho/co (4) = poznat nové lidi = meet new people
+!bát se | i | - | to be afraid | bojím / bojíš / bojí | boj | bál | koho/čeho (2) = bát se psa = be afraid of a dog
+milovat | i | - | to love | miluju / miluješ / milujou | miluj | miloval | koho/co (4) = milovat rodinu = love your family
+poslat | p | posílat | to send | pošlu / pošleš / pošlou | pošli | poslal | komu (3) co (4) = poslat kamarádovi zprávu = send a friend a message
+posílat | i | poslat | to send (regularly) | posílám / posíláš / posílají | posílej | posílal | co (4) = posílat fotky = send photos
+pamatovat si | i | zapamatovat si | to remember | pamatuju / pamatuješ / pamatujou | pamatuj | pamatoval | co (4) = pamatovat si jméno = remember a name
+povídat si | i | popovídat si | to chat | povídám / povídáš / povídají | povídej | povídal | s kým (7) = povídat si s kamarádkou = chat with a friend
+představit se | p | představovat se | to introduce oneself | představím / představíš / představí | představ | představil | komu (3) = představit se kolegům = introduce yourself to colleagues
+ztratit | p | ztrácet | to lose | ztratím / ztratíš / ztratí | ztrať | ztratil | co (4) = ztratit klíče = lose your keys
+používat | i | použít | to use | používám / používáš / používají | používej | používal | co (4) = používat mobil = use a mobile phone
+použít | p | používat | to use | použiju / použiješ / použijou | použij | použil | co (4) = použít slovník = use a dictionary
+postavit | p | stavět | to build; to put (upright) | postavím / postavíš / postaví | postav | postavil | co (4) = postavit dům = build a house
+přestat | p | přestávat | to stop (doing sth) | přestanu / přestaneš / přestanou | přestaň | přestal | infinitiv = přestat kouřit = stop smoking
+vyjít | p | vycházet | to go out; to work out | vyjdu / vyjdeš / vyjdou | vyjdi | vyšel/vyšla | z čeho (2) = vyjít z domu = leave the house
+chápat | i | pochopit | to understand, grasp | chápu / chápeš / chápou | chápej | chápal | co (4) = chápat problém = understand the problem
+starat se | i | postarat se | to take care | starám / staráš / starají | starej | staral | o koho/co (4) = starat se o děti = take care of the children
+chybět | i | - | to be missing; to miss | chybím / chybíš / chybí | - | chyběl | komu (3) = Chybíš mi. = I miss you.
+zapomenout | p | zapomínat | to forget | zapomenu / zapomeneš / zapomenou | zapomeň | zapomněl | na koho/co (4) = zapomenout na úkol = forget the homework ; co (4) = zapomenout deštník = forget your umbrella
+přát | i | popřát | to wish | přeju / přeješ / přejou | přej | přál | komu (3) co (4) = přát kamarádovi štěstí = wish a friend luck ; k čemu (3) = přát k narozeninám = wish happy birthday
+učit | i | naučit | to teach | učím / učíš / učí | uč | učil | koho (4) co (4) = učit děti češtinu = teach children Czech
+zajímat se | i | - | to be interested | zajímám / zajímáš / zajímají | zajímej | zajímal | o koho/co (4) = zajímat se o sport = be interested in sport
+smět | i | - | may, to be allowed | smím / smíš / smí, smějí | - | směl | infinitiv = Smím dál? = May I come in?
+pustit | p | pouštět | to let go; to put on | pustím / pustíš / pustí | pusť | pustil | co (4) = pustit hudbu = put some music on ; koho (4) = Pusť mě! = Let me go!
+vzpomínat | i | vzpomenout si | to remember, recall | vzpomínám / vzpomínáš / vzpomínají | vzpomínej | vzpomínal | na koho/co (4) = vzpomínat na dětství = remember your childhood
+vybrat | p | vybírat | to choose | vyberu / vybereš / vyberou | vyber | vybral | co (4) = vybrat dárek = choose a present
+vybírat | i | vybrat | to choose | vybírám / vybíráš / vybírají | vybírej | vybíral | z čeho (2) = vybírat z menu = choose from the menu
+projít | p | procházet | to go through; to pass | projdu / projdeš / projdou | projdi | prošel/prošla | čím (7) = projít parkem = walk through the park ; čím (7) = projít zkouškou = pass the exam
+bavit | i | - | to amuse; to enjoy | bavím / bavíš / baví | bav | bavil | koho (4) = Baví mě to. = I enjoy it. ; bavit se s kým (7) = bavit se s kamarády = talk with friends
+uvidět | p | vidět | to see | uvidím / uvidíš / uvidí | - | uviděl | koho/co (4) = uvidět moře = see the sea ; výraz = Uvidíme. = We'll see.
+požádat | p | žádat | to ask (for) | požádám / požádáš / požádají | požádej | požádal | o co (4) = požádat o pomoc = ask for help
+souhlasit | i | - | to agree | souhlasím / souhlasíš / souhlasí | souhlas | souhlasil | s kým/čím (7) = souhlasit s tebou = agree with you
+narodit se | p | - | to be born | narodím / narodíš / narodí | - | narodil | kde (6) = narodit se v Praze = be born in Prague
+počítat | i | spočítat | to count; to count on | počítám / počítáš / počítají | počítej | počítal | co (4) = počítat peníze = count money ; s kým/čím (7) = počítat s tebou = count on you
+běžet | i | - | to run (one way, now) | běžím / běžíš / běží | běž | běžel | kam = běžet domů = run home
+sejít se | p | scházet se | to meet (up) | sejdu / sejdeš / sejdou | sejdi | sešel/sešla | s kým (7) = sejít se s přáteli = meet up with friends
+pochopit | p | chápat | to understand | pochopím / pochopíš / pochopí | pochop | pochopil | co (4) = pochopit pravidlo = understand the rule
+dovolit | p | dovolovat | to allow | dovolím / dovolíš / dovolí | dovol | dovolil | komu (3) + infinitiv = dovolit dětem hrát si = allow the children to play
+těšit se | i | - | to look forward | těším / těšíš / těší | těš | těšil | na koho/co (4) = těšit se na víkend = look forward to the weekend ; výraz = Těší mě. = Nice to meet you.
+vysvětlit | p | vysvětlovat | to explain | vysvětlím / vysvětlíš / vysvětlí | vysvětli | vysvětlil | komu (3) co (4) = vysvětlit studentům pravidlo = explain a rule to the students
+fungovat | i | - | to work, function | funguju / funguješ / fungujou | - | fungoval | výraz = Počítač nefunguje. = The computer doesn't work.
+zvednout | p | zvedat | to lift; to pick up | zvednu / zvedneš / zvednou | zvedni | zvedl | co (4) = zvednout telefon = pick up the phone
+spadnout | p | padat | to fall | spadnu / spadneš / spadnou | - | spadl | z čeho (2) = spadnout ze schodů = fall down the stairs
+vyprávět | i | - | to tell (a story) | vyprávím / vyprávíš / vyprávějí | vyprávěj | vyprávěl | co (4) = vyprávět pohádku = tell a fairy tale
+řídit | i | - | to drive; to manage | řídím / řídíš / řídí | řiď | řídil | co (4) = řídit auto = drive a car
+potkat | p | potkávat | to meet (by chance) | potkám / potkáš / potkají | - | potkal | koho (4) = potkat souseda = meet a neighbour
+prodat | p | prodávat | to sell | prodám / prodáš / prodají | prodej | prodal | co (4) = prodat auto = sell a car
+prodávat | i | prodat | to sell | prodávám / prodáváš / prodávají | prodávej | prodával | co (4) = prodávat ovoce = sell fruit
+všimnout si | p | všímat si | to notice | všimnu / všimneš / všimnou | všimni | všiml | koho/čeho (2) = všimnout si chyby = notice a mistake
+položit | p | pokládat | to put, lay | položím / položíš / položí | polož | položil | co (4) kam (4) = položit knihu na stůl = put the book on the table
+vyhrát | p | vyhrávat | to win | vyhraju / vyhraješ / vyhrajou | vyhraj | vyhrál | co (4) = vyhrát zápas = win a match
+zpívat | i | zazpívat | to sing | zpívám / zpíváš / zpívají | zpívej | zpíval | co (4) = zpívat písničku = sing a song
+koukat se | i | kouknout se | to look, watch (colloquial) | koukám / koukáš / koukají | koukej | koukal | na koho/co (4) = koukat se na televizi = watch TV
+opakovat | i | zopakovat | to repeat | opakuju / opakuješ / opakujou | opakuj | opakoval | co (4) = opakovat slovíčka = revise vocabulary
+zkusit | p | zkoušet | to try | zkusím / zkusíš / zkusí | zkus | zkusil | co (4) = zkusit něco nového = try something new
+zkoušet | i | zkusit | to try; to test | zkouším / zkoušíš / zkoušejí | zkoušej | zkoušel | koho (4) = zkoušet studenty = test students ; co (4) = zkoušet si šaty = try on a dress
+přemýšlet | i | - | to think (about) | přemýšlím / přemýšlíš / přemýšlejí | přemýšlej | přemýšlel | o kom/čem (6) = přemýšlet o budoucnosti = think about the future
+smát se | i | zasmát se | to laugh | směju / směješ / smějou | směj | smál | komu/čemu (3) = smát se vtipu = laugh at a joke
+nosit | i | - | to carry (regularly); to wear | nosím / nosíš / nosí | nos | nosil | co (4) = nosit brýle = wear glasses
+strávit | p | trávit | to spend (time) | strávím / strávíš / stráví | - | strávil | co (4) kde (6) = strávit víkend na horách = spend the weekend in the mountains
+letět | i | - | to fly (one way) | letím / letíš / letí | leť | letěl | kam = letět do Londýna = fly to London
+kouřit | i | - | to smoke | kouřím / kouříš / kouří | kuř | kouřil | co (4) = kouřit cigarety = smoke cigarettes
+spěchat | i | - | to hurry | spěchám / spěcháš / spěchají | spěchej | spěchal | kam = spěchat do práce = hurry to work
+vonět | i | - | to smell nice | voním / voníš / voní | - | voněl | čím (7) = vonět kávou = smell of coffee
+tancovat | i | zatancovat si | to dance | tancuju / tancuješ / tancujou | tancuj | tancoval | s kým (7) = tancovat s manželkou = dance with your wife
+plavat | i | - | to swim | plavu / plaveš / plavou | plav | plaval | kde (6) = plavat v moři = swim in the sea
+běhat | i | - | to run (regularly) | běhám / běháš / běhají | běhej | běhal | kde (6) = běhat v parku = go running in the park
+cvičit | i | - | to exercise; to practise | cvičím / cvičíš / cvičí | cvič | cvičil | co (4) = cvičit jógu = do yoga
+uklízet | i | uklidit | to tidy up, clean | uklízím / uklízíš / uklízejí | uklízej | uklízel | co (4) = uklízet byt = clean the flat
+uklidit | p | uklízet | to tidy up | uklidím / uklidíš / uklidí | ukliď | uklidil | co (4) = uklidit pokoj = tidy the room
+nakupovat | i | nakoupit | to shop | nakupuju / nakupuješ / nakupujou | nakupuj | nakupoval | kde (6) = nakupovat v supermarketu = shop at the supermarket
+nakoupit | p | nakupovat | to do the shopping | nakoupím / nakoupíš / nakoupí | nakup | nakoupil | co (4) = nakoupit jídlo = buy food
+obědvat | i | naobědvat se | to have lunch | obědvám / obědváš / obědvají | obědvej | obědval | kde (6) = obědvat v restauraci = have lunch in a restaurant
+večeřet | i | navečeřet se | to have dinner | večeřím / večeříš / večeří | večeř | večeřel | s kým (7) = večeřet s rodinou = have dinner with the family
+koupat se | i | vykoupat se | to bathe, swim | koupám / koupáš / koupají | koupej | koupal | kde (6) = koupat se v řece = swim in the river
+holit se | i | oholit se | to shave | holím / holíš / holí | hol | holil | kdy = holit se každé ráno = shave every morning
+česat se | i | učesat se | to comb one's hair | češu / češeš / češou | češ | česal | výraz = česat se před zrcadlem = comb your hair in front of the mirror
+svlékat se | i | svléknout se | to undress | svlékám / svlékáš / svlékají | svlékej | svlékal | kde (6) = svlékat se v šatně = undress in the changing room
+svléknout se | p | svlékat se | to get undressed | svléknu / svlékneš / svléknou | svlékni | svlékl | výraz = svléknout se a jít spát = get undressed and go to bed
+lyžovat | i | - | to ski | lyžuju / lyžuješ / lyžujou | lyžuj | lyžoval | kde (6) = lyžovat na horách = ski in the mountains
+fotit | i | vyfotit | to take photos | fotím / fotíš / fotí | foť | fotil | koho/co (4) = fotit památky = photograph the sights
+vyfotit | p | fotit | to take a photo | vyfotím / vyfotíš / vyfotí | vyfoť | vyfotil | koho/co (4) = vyfotit kamarády = take a photo of your friends
+prát | i | vyprat | to do the washing | peru / pereš / perou | per | pral | co (4) = prát prádlo = do the laundry
+žehlit | i | vyžehlit | to iron | žehlím / žehlíš / žehlí | žehli | žehlil | co (4) = žehlit košili = iron a shirt
+zvonit | i | zazvonit | to ring | zvoním / zvoníš / zvoní | zvoň | zvonil | výraz = Zvoní telefon. = The phone is ringing.
+zazvonit | p | zvonit | to ring (once) | zazvoním / zazvoníš / zazvoní | zazvoň | zazvonil | na co (4) = zazvonit na zvonek = ring the doorbell
+mýt | i | umýt | to wash | myju / myješ / myjou | myj | myl | co (4) = mýt nádobí = wash the dishes
+zapnout | p | zapínat | to switch on | zapnu / zapneš / zapnou | zapni | zapnul | co (4) = zapnout počítač = switch on the computer
+vypnout | p | vypínat | to switch off | vypnu / vypneš / vypnou | vypni | vypnul | co (4) = vypnout světlo = switch off the light
+půjčit | p | půjčovat | to lend; to borrow | půjčím / půjčíš / půjčí | půjč | půjčil | komu (3) co (4) = půjčit kamarádovi auto = lend a friend the car ; si co (4) = půjčit si knihu = borrow a book
+nastoupit | p | nastupovat | to get on | nastoupím / nastoupíš / nastoupí | nastup | nastoupil | do čeho (2) = nastoupit do autobusu = get on the bus
+vystoupit | p | vystupovat | to get off | vystoupím / vystoupíš / vystoupí | vystup | vystoupil | z čeho (2) = vystoupit z tramvaje = get off the tram
+přestoupit | p | přestupovat | to change (trains) | přestoupím / přestoupíš / přestoupí | přestup | přestoupil | kde (6) = přestoupit na Můstku = change at Můstek
+opravit | p | opravovat | to repair; to correct | opravím / opravíš / opraví | oprav | opravil | co (4) = opravit chybu = correct a mistake
+nudit se | i | - | to be bored | nudím / nudíš / nudí | nuď | nudil | výraz = Nudím se. = I'm bored.
+slavit | i | oslavit | to celebrate | slavím / slavíš / slaví | slav | slavil | co (4) = slavit narozeniny = celebrate a birthday
+oslavit | p | slavit | to celebrate | oslavím / oslavíš / oslaví | oslav | oslavil | co (4) = oslavit úspěch = celebrate a success
+pozvat | p | zvát | to invite | pozvu / pozveš / pozvou | pozvi | pozval | koho (4) na co (4) = pozvat kamarády na večeři = invite friends to dinner
+stěhovat se | i | přestěhovat se | to move (house) | stěhuju / stěhuješ / stěhujou | stěhuj | stěhoval | kam = stěhovat se do Brna = move to Brno
+přestěhovat se | p | stěhovat se | to move (house) | přestěhuju / přestěhuješ / přestěhujou | přestěhuj | přestěhoval | kam = přestěhovat se do Prahy = move to Prague
+ochutnat | p | ochutnávat | to taste, try (food) | ochutnám / ochutnáš / ochutnají | ochutnej | ochutnal | co (4) = ochutnat polévku = taste the soup
+chutnat | i | - | to taste (good) | chutnám / chutnáš / chutnají | - | chutnal | komu (3) = Chutná mi to. = I like the taste.
+objednat si | p | objednávat si | to order | objednám / objednáš / objednají | objednej | objednal | co (4) = objednat si pizzu = order a pizza
+dát si | p | dávat si | to have (food, drink) | dám / dáš / dají | dej | dal | co (4) = dát si kávu = have a coffee
+přejít | p | přecházet | to cross | přejdu / přejdeš / přejdou | přejdi | přešel/přešla | co (4) = přejít ulici = cross the street
+odpočívat | i | odpočinout si | to rest | odpočívám / odpočíváš / odpočívají | odpočívej | odpočíval | kde (6) = odpočívat doma = rest at home
+odpočinout si | p | odpočívat | to have a rest | odpočinu / odpočineš / odpočinou | odpočiň | odpočinul | po čem (6) = odpočinout si po práci = have a rest after work
+vyplnit | p | vyplňovat | to fill in | vyplním / vyplníš / vyplní | vyplň | vyplnil | co (4) = vyplnit formulář = fill in a form
+podepsat | p | podepisovat | to sign | podepíšu / podepíšeš / podepíšou | podepiš | podepsal | co (4) = podepsat smlouvu = sign a contract
+rezervovat | b | zarezervovat | to book, reserve | rezervuju / rezervuješ / rezervujou | rezervuj | rezervoval | co (4) = rezervovat stůl = book a table
+vydělat | p | vydělávat | to earn | vydělám / vyděláš / vydělají | vydělej | vydělal | co (4) = vydělat peníze = earn money
+vydělávat | i | vydělat | to earn | vydělávám / vyděláváš / vydělávají | vydělávej | vydělával | kolik = vydělávat hodně peněz = earn a lot of money
+šetřit | i | ušetřit | to save | šetřím / šetříš / šetří | šetři | šetřil | na co (4) = šetřit na auto = save for a car
+plánovat | i | naplánovat | to plan | plánuju / plánuješ / plánujou | plánuj | plánoval | co (4) = plánovat dovolenou = plan a holiday
+doufat | i | - | to hope | doufám / doufáš / doufají | - | doufal | že = Doufám, že přijdeš. = I hope you'll come.
+pokračovat | i | - | to continue | pokračuju / pokračuješ / pokračujou | pokračuj | pokračoval | v čem (6) = pokračovat ve studiu = continue studying
+sledovat | i | - | to watch, follow | sleduju / sleduješ / sledujou | sleduj | sledoval | co (4) = sledovat film = watch a film
+omluvit se | p | omlouvat se | to apologise | omluvím / omluvíš / omluví | omluv | omluvil | komu (3) za co (4) = omluvit se za chybu = apologise for a mistake
+omlouvat se | i | omluvit se | to apologise | omlouvám / omlouváš / omlouvají | omlouvej | omlouval | výraz = Omlouvám se. = I'm sorry.
+seznámit se | p | seznamovat se | to get to know, meet | seznámím / seznámíš / seznámí | seznam | seznámil | s kým (7) = seznámit se s novými lidmi = meet new people
+setkat se | p | setkávat se | to meet | setkám / setkáš / setkají | setkej | setkal | s kým (7) = setkat se s kolegou = meet a colleague
+domluvit se | p | domlouvat se | to agree; to make oneself understood | domluvím / domluvíš / domluví | domluv | domluvil | s kým (7) = domluvit se s lékařem = arrange things with the doctor ; jak = domluvit se česky = make yourself understood in Czech
+lhát | i | zalhat | to lie (tell lies) | lžu / lžeš / lžou | lži | lhal | komu (3) = lhát rodičům = lie to your parents
+plakat | i | - | to cry | pláču / pláčeš / pláčou | plač | plakal | výraz = Dítě pláče. = The child is crying.
+usnout | p | usínat | to fall asleep | usnu / usneš / usnou | usni | usnul | kde (6) = usnout u televize = fall asleep in front of the TV
+vzbudit se | p | budit se | to wake up | vzbudím / vzbudíš / vzbudí | vzbuď | vzbudil | kdy = vzbudit se v sedm = wake up at seven
+probudit se | p | probouzet se | to wake up | probudím / probudíš / probudí | probuď | probudil | jak = probudit se brzy = wake up early
+nést | i | - | to carry (one way, now) | nesu / neseš / nesou | s | nesl | co (4) = nést tašku = carry a bag
+přiletět | p | přilétat | to arrive (by plane) | přiletím / přiletíš / přiletí | přileť | přiletěl | odkud = přiletět z Londýna = arrive from London
+vyjet | p | vyjíždět | to set off (by vehicle) | vyjedu / vyjedeš / vyjedou | vyjeď | vyjel | kdy = vyjet ráno = set off in the morning
+dojet | p | dojíždět | to get to (by vehicle) | dojedu / dojedeš / dojedou | dojeď | dojel | kam = dojet do Brna = get to Brno
+dojíždět | i | dojet | to commute | dojíždím / dojíždíš / dojíždějí | dojížděj | dojížděl | kam = dojíždět do práce = commute to work
+přicházet | i | přijít | to come, arrive | přicházím / přicházíš / přicházejí | přicházej | přicházel | kdy = přicházet pozdě = come late
+přijíždět | i | přijet | to be arriving (by vehicle) | přijíždím / přijíždíš / přijíždějí | přijížděj | přijížděl | výraz = Vlak přijíždí. = The train is arriving.
+odjíždět | i | odjet | to leave (by vehicle) | odjíždím / odjíždíš / odjíždějí | odjížděj | odjížděl | kdy = Vlak odjíždí v osm. = The train leaves at eight.
+vycházet | i | vyjít | to go out; to get on (with) | vycházím / vycházíš / vycházejí | vycházej | vycházel | s kým (7) = vycházet s kolegy = get on with your colleagues
+vejít | p | vcházet | to enter, go in | vejdu / vejdeš / vejdou | vejdi | vešel/vešla | do čeho (2) = vejít do místnosti = enter the room
+kreslit | i | nakreslit | to draw | kreslím / kreslíš / kreslí | kresli | kreslil | co (4) = kreslit obrázek = draw a picture
+malovat | i | namalovat | to paint | maluju / maluješ / malujou | maluj | maloval | co (4) = malovat obraz = paint a picture
+uzdravit se | p | uzdravovat se | to get well | uzdravím / uzdravíš / uzdraví | uzdrav | uzdravil | výraz = Brzy se uzdrav! = Get well soon!
+čistit | i | vyčistit | to clean | čistím / čistíš / čistí | čisti | čistil | co (4) = čistit si zuby = brush your teeth
+vyčistit | p | čistit | to clean | vyčistím / vyčistíš / vyčistí | vyčisti | vyčistil | co (4) = vyčistit boty = clean your shoes
+vypít | p | pít | to drink (up) | vypiju / vypiješ / vypijou | vypij | vypil | co (4) = vypít kávu = drink a coffee
+!sníst | p | jíst | to eat (up) | sním / sníš / snědí | sněz | snědl | co (4) = sníst oběd = eat your lunch
+přeložit | p | překládat | to translate | přeložím / přeložíš / přeloží | přelož | přeložil | co (4) do čeho (2) = přeložit text do češtiny = translate a text into Czech
+vyzvednout | p | vyzvedávat | to pick up, collect | vyzvednu / vyzvedneš / vyzvednou | vyzvedni | vyzvedl | koho/co (4) = vyzvednout děti ze školy = pick up the children from school
+zaparkovat | p | parkovat | to park | zaparkuju / zaparkuješ / zaparkujou | zaparkuj | zaparkoval | kde (6) = zaparkovat před domem = park in front of the house
+odbočit | p | odbočovat | to turn | odbočím / odbočíš / odbočí | odboč | odbočil | kam = odbočit doleva = turn left
+nabídnout | p | nabízet | to offer | nabídnu / nabídneš / nabídnou | nabídni | nabídl | komu (3) co (4) = nabídnout hostům kávu = offer the guests coffee
+doporučit | p | doporučovat | to recommend | doporučím / doporučíš / doporučí | doporuč | doporučil | komu (3) co (4) = doporučit kamarádovi restauraci = recommend a restaurant to a friend
+gratulovat | i | pogratulovat | to congratulate | gratuluju / gratuluješ / gratulujou | gratuluj | gratuloval | komu (3) k čemu (3) = gratulovat k narozeninám = wish a happy birthday
+sportovat | i | - | to do sport | sportuju / sportuješ / sportujou | sportuj | sportoval | kdy = sportovat každý den = do sport every day
+péct | i | upéct | to bake | peču / pečeš / pečou | peč | pekl | co (4) = péct dort = bake a cake
